@@ -1,5 +1,4 @@
-﻿#EXTM3U billed-msg="SILA BELI ID DI SHOPEE EMAYAZ.EMPIRE"
-
+﻿#EXTM3U billed-msg="SILA BELI ID DI SHOPEE ANDigitalStore"
 
 
 
@@ -41,10 +40,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
 
 
-#EXTINF:-1 group-title="BELI DI SHOPEE EMAYAZ.EMPIRE " group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-id="EMAYAZ.EMPIRE" ch-number="100" tvg-name="EMAYAZ.EMPIRE" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI SHOPEE EMAYAZ.EMPIRE
+#EXTINF:-1 group-title="BELI DI SHOPEE EMAYAZ.EMPIRE " group-logo="https://i.ibb.co5.jpg" tvg-id="EMAYAZ.EMPIRE" ch-number="100" tvg-name="EMAYAZ.EMPIRE" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI SHOPEE EMAYAZ.EMPIRE
 https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
 
-#EXTINF:-1 group-title="ID BANNED JIKA TAK BELI DI SHOPEE EMAYAZ.EMPIRE" group-logo="https://i.ibb.co/qM5r6xY6/E-20250224-074610-0000.png" tvg-id="EMAYAZ.EMPIRE" ch-number="104" tvg-name="EMAYAZ.EMPIRE" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI shopee EMAYAZ.EMPIRE https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
+#EXTINF:-1 group-title="ID BANNED JIKA TAK BELI DI SHO" group-logo="https://i.ibb.co/qM5r6xY6/E-20250224-074610-0000.png" tvg-id="EMAYAZ.EMPIRE" ch-number="104" tvg-name="EMAYAZ.EMPIRE" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", ID ORIGINAL DI shopee EMAYAZ.EMPIRE https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
 
 
 
