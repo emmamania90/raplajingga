@@ -605,8 +605,21 @@ https://live-ssar-02.tonton.com.my/1789957282/178c6ee85f2dd588dbba8cc12b018b46bf
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #EXTINF:-1 tvg-id="106.astro" tvg-name="DRAMASANGAT" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",106 Drama Sangat 1
 https://live-03.tonton.com.my/1789957286/9d243f99629b9b7135cc34874978eb70e914a023e3c17a3320da9c78c435be0a/ds/02.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+#EXTINF:-1 tvg-id="106.astro" tvg-name="DRAMASANGAT" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",106 Drama Sangat 2
 https://live-03.tonton.com.my/1789957286/9d243f99629b9b7135cc34874978eb70e914a023e3c17a3320da9c78c435be0a/ds/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+#EXTINF:-1 tvg-id="106.astro" tvg-name="DRAMASANGAT" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",106 Drama Sangat 3
 https://live-03.tonton.com.my/1789957286/9d243f99629b9b7135cc34874978eb70e914a023e3c17a3320da9c78c435be0a/ds/03.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+#EXTINF:-1 tvg-id="106.astro" tvg-name="DRAMASANGAT" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/MPB_DS.png",106 Drama Sangat 3
 https://live-03.tonton.com.my/1789957286/9d243f99629b9b7135cc34874978eb70e914a023e3c17a3320da9c78c435be0a/ds/04.m3u8
 
 
