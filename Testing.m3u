@@ -596,11 +596,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv3.m3u8
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-##EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="101" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",TV3
+
+#EXTINF:-1 tvg-id="tv9" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="104" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",TV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv3.m3u8
+https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv9.m3u8
 
 #EXTINF:-1 tvg-id="drama-sangat" tvg-name="Drama Sangat" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="105" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -641,9 +640,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-id="tv9" tvg-name="TV9" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="104" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",TV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
