@@ -559,7 +559,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 
 ###################### MALAYSIA ######################
 
-#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/26f16d3a-5713-4dc2-ad1c-4e0880899a13/logo.png" tvg-chno="101" group-title="MYTV Live",TV1
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/26f16d3a-5713-4dc2-ad1c-4e0880899a13/logo.png" tvg-chno="101" group-title="Malaysia",TV1
 https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv1.m3u8
 
 
@@ -614,10 +614,10 @@ https://kerklangsi.github.io/MY-tv/streams/live_mytv/bernama.m3u8
 #EXTINF:-1 tvg-id="tvs" tvg-name="TVS" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c62a6f83-ebd8-4106-890d-d8b299b7a3fe/logo.jpeg" tvg-chno="122" group-title="Malaysia",TVS
 https://kerklangsi.github.io/MY-tv/streams/live_mytv/tvs.m3u8
 
-#EXTINF:-1 tvg-id="berita-rtm" tvg-name="BERITA RTM" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/6245eaa8-f825-4fef-b1f8-2d44fa8676e9/logo.png" tvg-chno="123" group-title="MYTV Live",BERITA RTM
+#EXTINF:-1 tvg-id="berita-rtm" tvg-name="BERITA RTM" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/6245eaa8-f825-4fef-b1f8-2d44fa8676e9/logo.png" tvg-chno="123" group-title="Malaysia",BERITA RTM
 https://kerklangsi.github.io/MY-tv/streams/live_mytv/berita-rtm.m3u8
 
-#EXTINF:-1 tvg-id="siara-tv" tvg-name="SIARA TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c30bcb6d-8671-4fbf-8b82-9b322c65fadb/logo.jpg" tvg-chno="200" group-title="Malaysis",SIARA TV
+#EXTINF:-1 tvg-id="siara-tv" tvg-name="SIARA TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c30bcb6d-8671-4fbf-8b82-9b322c65fadb/logo.jpg" tvg-chno="200" group-title="Malaysia",SIARA TV
 https://kerklangsi.github.io/MY-tv/streams/live_mytv/siara-tv.m3u8
 
 ############## SINGAPORE #################################
