@@ -598,12 +598,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv3.m3u8
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 1
-https://live-ssar-02.tonton.com.my/1789957282/178c6ee85f2dd588dbba8cc12b018b46bf50c17736fc36a30ce4e40aa98a628f/tv3/04.m3u8?bpkio_serviceid=6c0958d82a830a0201685a5b17521fbd&bpkio_sessionid=10a3d150d113-3665c3b7-7f1e-408b-b4f8-309cd
-/ds/02.m3u8
+##EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="101" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv3.m3u8
 
-
-EXTINF:-1 tvg-id="drama-sangat" tvg-name="Drama Sangat" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="105" group-title="Tonton Live" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",Drama Sangat
+EXTINF:-1 tvg-id="drama-sangat" tvg-name="Drama Sangat" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="105" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://kerklangsi.github.io/MY-tv/streams/live_tonton/drama-sangat.m3u8
 
