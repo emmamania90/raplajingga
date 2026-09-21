@@ -363,7 +363,17 @@ https://kerklangsi.github.io/MY-tv/streams/live_mytv/berita-rtm.m3u8
 #EXTINF:-1 tvg-id="siara-tv" tvg-name="SIARA TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c30bcb6d-8671-4fbf-8b82-9b322c65fadb/logo.jpg" tvg-chno="200" group-title="Malaysia",SIARA TV
 https://kerklangsi.github.io/MY-tv/streams/live_mytv/siara-tv.m3u8
 
+#EXTINF:-1 tvg-id="usim-tv" tvg-name="USIM TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/3d0a1579-dd79-453b-b4f6-3c861f4d35da/logo.png" tvg-chno="224" group-title="Malaysia",USIM TV
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/usim-tv.m3u8
 
+#EXTINF:-1 tvg-id="selangor-tv" tvg-name="SELANGOR TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/8c00c624-d7aa-4828-8abe-b0665ebf5772/logo.png" tvg-chno="225" group-title="Malaysia",SELANGOR TV
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/selangor-tv.m3u8
+
+#EXTINF:-1 tvg-id="tv-ikim" tvg-name="TVIKIM" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/784dbb7e-ddd3-4183-8914-1983291524a3/logo.png" tvg-chno="226" group-title="Malaysia",TVIKIM
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv-ikim.m3u8
+
+#EXTINF:-1 tvg-id="borneo-tv" tvg-name="BORNEO TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/ebb8ddd1-318a-471c-96c6-13bf7125be93/logo.png" tvg-chno="227" group-title="Malaysia",BORNEO TV
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/borneo-tv.m3u8
 
 
 ############## INDIAN ######################################
