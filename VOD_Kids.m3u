@@ -1,0 +1,1337 @@
+#EXTM3U url=""
+
+
+###################################################################▶ VOD KIDS#######################################################
+
+################################################################## KIDS SERIES ######################################################
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=824ee9136a7359b3d863a49a060a1310:b3bd6f5849cfbde8dd86a517965d4cd1
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/aa8cc69a-4ed6-5731-86aa-4d74dc5dc361/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=38dd16a00438d9383149883246f98a10:736515045f1cbf46f07a2a2a8486e40f
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/5854e2f5-341e-5649-98ff-007efb5a8b05/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=d8f41af84cb812269096e97ee54a7710:283f765712137c4d46db1ecab03f8673
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bdb310d3-9192-5bda-ad61-8f5b2bd7a728/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep04" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a7c44dbe9bc25905b57e265e875bd910:ae3e60531e09d55dc21e7d19ece46b81
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9f489978-5da4-5a71-8937-9ad5b368ad02/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep05" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=d4ded7add1a032af221b1abc1b05d010:5ad6852d22f2b5378dae37bfea06bfd4
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f460275b-3ef9-5423-81d9-2af728325922/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep06" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=76a89ef474a1bc8c39d23c5288d0ec10:f7d95289bc8a63ebcc88f4d1e0b7bf39
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a472ac30-3afa-54fd-9ab6-ce90c7d5cce8/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep07" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=73e36174eec584e0288981b9974dfb10:bacbb69c0cbaa20c2a1aaad8135dfcfe
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/01be4c32-6cc8-5bfd-8e6c-a3f3d0904411/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=69ff17e53da391100f153b4514f77910:b515220973c94a9c85643e83397580c0
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/45573d69-e89c-580a-ad6f-515bee45cfa8/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep09" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E09
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=66ef854f8aebadd94992e5860a149e10:5639a4c3425d8378d829300ca1100631
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d337972a-5aa9-5439-9ed3-1b8dff62d224/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep10" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=61574c10b8362abb05be992c5955bf10:b684fbaf2fb220144d1d1e6f190536a9
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bfb02cbe-2cc2-534b-9393-c62d4933ec6f/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep11" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=433755d5d3d0647b52bd0a9171c0fa10:66bf888bddcb1f4aa17836386d90cd75
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4421c6b0-e894-55b1-bede-f8c5b5516abf/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep12" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=281b7cf6e3573f1c8f01d449e50d3e10:01530272ac613dcd7c76f8392d4554df
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/071a82df-c8ba-5cbf-bb07-3acc3391db6b/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1f6887fabb7deaeffbac2c08ee03a810:8fdcd359cf9d7f7fb63a08a2333df17e
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2d491490-f6b5-5105-b9fe-b8cd8ca223e0/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep14" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E14
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=ac4f9db54118c36414d34456a4b26910:5e42d1dc78e5654d68d66038447a1e98
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/86122bc2-61f2-5df3-90b5-7168ae942c92/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=669cab2ff93f9d8737d1fd14e561d510:8fac81e0b55eb821a4858651c920a494
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/76c2bf59-8bde-5887-b809-4833f52814b8/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=9f0f8e933b18eca6c21a365ea3be7010:986cff0e848f6c34d048c206d9e45857
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/0c1c60b9-c6d6-5e6d-a4bf-bf2b1588c19a/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f6928ede6195832d43ef287abb802610:3bf7d64dddd788b52d32abd0e8eaea73
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/de6c2122-4ec1-56d5-a206-102a4c83fe92/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=97d03e13c8316c6db2f5839d955c2310:ec4940ce3bfe0a42fa4f3f6bc26ff9df
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c7e85700-c284-51ef-9961-001b08427e9e/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep19" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=6d94464630154b21d14a1d2ed99d9610:307714ec4819111e808aadb529485390
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bb599400-a696-59ad-ad26-2dc819be457b/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep20" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=5dea4d64ed86c6bbfce64733473e2310:0f940730da268a7b367b5d2b2aec2a7c
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/733a253c-5632-5733-98a8-40ede773c915/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep21" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E21
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=7a40271f8e2aaf247b7e68ccfaf7d110:9dbfbb7db406f157734084e0428bdf21
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d49c4071-0574-51a2-8678-594687775f96/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep22" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1d096143960497bf5c6fe32f2d02c110:2e438d897d5cf0a96f68d2612a6e8736
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/72a1624e-21dd-580c-a1ce-c5af85af984f/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep23" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a03bec077d45f05e12712669c9df5510:bf8f95904ef03d58b6485bbe920553d6
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ec46fecd-ebd8-53d7-a9a4-522567d7a094/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep24" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=7c6a24036bbfe7cdc32ae02191d6c710:7a13abe057e5765c2804ed5e7aa7235d
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e497808f-a1a6-51db-9d88-695df80e8150/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=9335cfd2a62a9f12ebb91374d6bf6610:8167b83f292622262fd9bedaca241751
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e20ade10-62eb-51d9-9247-fc31a1b10ee2/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=48dfbb1dee16b5272ac00905c92cae10:4eebad32e3ffe3b3def3b561197527a1
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7f5816e0-21bd-5484-ac39-1343634e9743/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E27
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a220f2d6ce8bdb33a710e019b821e810:833fdb3c397e5dffd9ed48454c5b7388
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3d06051f-71df-58d8-9782-027791f06e37/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E28
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=15320a32b9aee4e9e49a98938fc60810:2c931b37bae2c891e27eabf0b51236a2
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d0f04a00-1a6e-57ad-be3c-9ee29e40b8c7/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b4cb73e2257f665a28480b0933044b10:578d418f12bdc8d4c494c6047404001b
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d2e0c625-49eb-5cac-a09d-869be9797ece/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=0b3392d890ab7ebbbb21a6760bcd4610:e9318848ceffda9a5ad5c8ccd14d61fa
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/15af3a65-c0c6-5f16-8c44-33b8f886beec/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E31
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=44055e91cda625f40be3135060c8b510:3f6412cb6d9c8bef9c0f8accc29d98ba
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e28b15be-c635-584f-84fa-eb0f19a38c21/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=998775a44644c44400a481dfff9fe010:a09cb4bb0f4de64f00805d90816c21bb
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e16dc871-87de-53c2-9574-e2092e026514/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E33
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=79b173bc35ec6811e40347fbe1c8db10:f6b2a5c74b034dc8a3a6ceaa7d6bcf5f
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/365ba732-aba2-50e1-b356-c9d42be1094b/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f10643bf1693759c4e47566c6fd94f10:9bcbd3e555cf1fc94188104b3cc57d62
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d1583302-2d3f-5954-9ddb-521191f870dc/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3bd2608e05b0f98bca275fb726af2510:bfea8040a539e67825a040a0029d7124
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ecfde37b-5af8-5b2d-a5f7-54a8b0b2aec4/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=6863624c84daf77ff3bf6c2e461cc510:9592fdf8b644f68d4fca2a0ce747a2b3
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/94cb1125-6d38-531e-84c4-90e69acf20d9/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E37
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=4776d4910b87d849b07e1d0fe2d0db10:11497bc17743b9617269d5c755c240f5
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9aa3f771-293f-58d1-bd4e-e541b9f17462/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E38
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=492f0f2ff65c40e6e258ed28faa8ea10:15358b5c6d7b92ea0f2a5ce437c06882
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/640809ce-7142-521e-b8f3-3ab44d6ac6e9/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1bfb94c5e8c1fe7b11aa221b0d7d7710:07a830f6209ffa94af52fbb059aa692f
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f2ff411e-521e-510e-9227-4fbc706afd03/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E40
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f2670bc7f56a5194d03891e0f25ce910:bf45e5eb7f413b7a833c09af2c4f6169
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/1a57f6a8-f2f6-5399-b7b3-2ff819491262/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E41
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=841bb23817bf6812e0f4e67d0921e410:4d8e84ba9a02a54f170be51068da9724
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c041dadb-7c48-57a5-8ac1-e756e3cc1c9b/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E42
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a30511bdee0a4189053593915c7df210:c809eb2c73009cd7da088eb4f34da77d
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/2d2b93bb-5f42-59e2-b38b-50d30317d255/default_ott.mpd
+
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=848171a67a5a56ebec27eb4ee6aac810:4fd3f19c85ee5003ff34a9b3a540ee0d
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b9d52633-1b28-5c57-a7a7-dd929d7a5358/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep02" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=bb85fbca03791655b156ec2dd98f2210:0dcb21cf189b2e3491ef71f9169f1369
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b2163b0f-d4f2-53c9-b77a-011fe35bd014/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep03" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=8f1d7159108dc1b2a6287976459ac810:635832e558e6bcf142189a9037802624
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9d9121a2-b7e8-5bc8-af02-0f47ac707b05/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep04" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=32eeb67757bf91a7a37d04012aafad10:2be5aa21e780e24a82c4e7a01000f25f
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b9babc14-7ba9-539d-bc98-5680386f2938/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep05" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=991ab411ebb19ab7e03a04aef08d6010:823106dfc5d94e9b1e8e942db4ca1278
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/e92f170a-86d4-5ae6-81b7-804bdf91c5ab/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep06" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=70359ef5f39517cca5c20fc3360e6910:36532bcb29be437dfca9c750dbc56829
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a52835d6-3c05-5d52-9075-ca5781be5d43/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep07" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=4e675ff24f34cf91b78f8002d6d65010:441049adeed83f2059a2b7eb6987a57d
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/a3439f3d-3bf9-5ea2-979f-1a2b2a5ce88e/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep08" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=36a18d0ca88699a7c232c0864f52c110:65ec2d79745db4c009c88d5cbb48b279
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c1a7f78e-fd57-598d-855b-128b37652491/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep09" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E09
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=821948b50e9088f9ae3c182b52ed4810:54ce1d5641db340993a6452e323c9247
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/80ce266a-b533-5971-b9cb-aa50211077ef/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep10" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a47ba2a0fc93da68bf3b9ddb52fb4810:008b27f18c297705e8a4db29abdba0ba
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f158080d-25a0-52bb-b7fe-19cf9727632f/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep11" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=e446e5dbd2d60ac28f2a09c7d4de4d10:6e98c9f114bbcbfce4d3e5ee27082f85
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/39b52e49-7369-515b-b02d-4a2007d2c286/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep12" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=ccf5dc6d1199b95002d2bcc3062d6a10:a86fcf63fbc64a6cc43b9066f3b9b10d
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/08717607-8f08-5921-9e61-0e4b44883244/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep13" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a40dee4bdfd4da0e41657265bb3a5f10:6aff2d98f720404b02a41250102e31b7
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/1f51dd50-7886-538c-9cb6-4d25691f9fea/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep15" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b13b3416d6d7682540a8f13283335510:05770259240b6b224fb9b0b7f2bee196
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/add21ffc-8b7c-5d4a-923b-047b3872159a/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep16" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=27b7ad462aee5b4dcc90a38f2a3b2910:efbb6f4eac362457bb773477b8a206ec
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/76e277ea-aafd-53a9-a462-df472d2b5b17/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep17" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=776d284298358b0c8e043e42c270c110:63f0096faf86b10c0bba09938289fb5e
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c1f2ff12-db10-5457-8a66-d587d2df141d/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep18" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=f4197473174b4ff87945345704f3c610:a4b364f4bf47a1962a5375e9b58be288
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/f77f12d8-ea92-572d-a7b2-34fec551304e/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep25" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3469056df3a7eaab745eb0cc54a51510:b16ca899f8cabd61d6d6554c50e0a74c
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b29941fb-4761-5872-a736-08ce17fbb6bf/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep26" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=2c45855c9c85b12b004188558a6ecf10:bf7014d69dcad8fb4b975ceed4344a4e
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3b8dc2cf-32ae-5834-95d2-600bd354074d/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep27" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E27
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=81f068b92c9323163aca006749eb5010:1369d15c8e497b58baefa0e437028cbe
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/31bf9325-7b1d-5491-ad5e-f7a48addef55/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep28" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E28
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=17cab034e999da8eee72f45ab0233110:ac59d91dfd4d8d6d35702a5d419010bf
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/951cc491-bcdb-5118-ad04-d192971280b9/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep29" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=22b6a8fd8c7f6c837f8bd9188624a210:3bc7e3ab378d1cc4584bb4f4b642321b
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4982fb28-31e8-50db-a120-2c32fc33fbeb/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep30" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=c1c1b16a839a7726f6265bf2a572b410:24252fa69e9cd2dcf50753b7edaf46ae
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/087757b3-02cb-5a12-878e-a589a762c8ba/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep31" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E31
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=0b79788be2b22a316e208d8e8e2c0d10:848fd424258cbf5ae1eee925441f86cc
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9f0eaca0-419f-53bb-be88-35da8c48ed89/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep32" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E32
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b9db9bfa46cce02a0b38707f97f6ed10:6cdb20684e92e80d85e5e9ed7a7ee38e
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c6954d18-3432-5f46-ab1d-3408e648b4a9/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep33" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E33
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1944c9cc72d37837ea48cc0ee7d65b10:37df6138ceb495d02ac665c93ebc589c
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/b72a4497-6f9a-5721-be70-7588f496802e/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep34" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=dc7fcd9014dd73da8bd8ee88ef9eea10:b144b138c413588f2cc1a668b5e48072
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/12fb67ac-debd-59f0-afb1-8f7e3d1fa61e/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b3f85f79be8bae2a70f8ff9c61f21f10:dc3b840d4171cb9f1e8afe971f941c02
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d7ca89f7-a426-5551-9277-6ba1a49067fd/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep36" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=0f7e55b296fde3199ff6984161007810:ec7d1772cab07c4d5ccab04c0f06990e
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4f6cf94d-f65d-5ca5-a8c7-dbfb1029244f/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep37" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E37
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=2893a337c23c56cbf9a886ba1fbc3210:fcbdcead1c5ec133bea234339f9c6099
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/dd451ea5-1332-532f-9912-9ea4b51afa85/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep38" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E38
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=a96cbb4a5d388325a4fdcb54e2964110:29a732178ebb0b41e77a764bf26aa0ce
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d3f77541-64f6-57bf-8069-3dd89082230c/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep39" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E39
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=be6befe62747a9341cf01f4ef653eb10:ef7ff02577be9b5048065a94addcd50d
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/9300aa38-4abc-5e4f-aedb-ee0a6043456e/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep40" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E40
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=4a2e2397f07d3a887f66dd5e0ba76310:fe6b21e5616c352ef5db8d1090266d1c
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/d3912a52-8c81-5eff-ba6e-ddf7b72ec4d8/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep41" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E41
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=1db2cad884cd89d242c7baa393d31210:43e15b0cf13eb577906f95406d1bdc3e
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/4fc55073-33a2-5847-9b53-22137e461016/default_ott.mpd
+
+#EXTINF:-1 type="series" tvg-name="Upin & Ipin S4 Ep42" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRSHX_IVP_LAND_266x150_2DBE2_202573_193633.jpg" group-title="▶ VOD KIDS", Upin & Ipin S4 E42
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=9fb589eac3b7ed57e82ff91437e6e010:1f2681e3111ad035feeae83349a0d825
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7d0b1bde-0545-5898-9db3-af86031fed0c/default_ott.mpd
+
+
+################################################################### Kamen Rider Zi-O #######################################################
+
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E01
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2001.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E02
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2002.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E03
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2003.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E04
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2004.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E05
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2005.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E06
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2006.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E07
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2007.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E08
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2008.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E09
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2009.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E10
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2010.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E11
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2011.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E12
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2012.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E13
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2013.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E14
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2014.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E15
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2015.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E16
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2016.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E17
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2017.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E18
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2018.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E19
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2019.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E20
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2020.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E21
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2021.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E22
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2022.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E23
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2023.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E24
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2024.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E25
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2025.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E26
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2026.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E27
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2027.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E28
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2028.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E29
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2029.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E30
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2030.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E31
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2031.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E32
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2032.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E33
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2033.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E34
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2034.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E35
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2035.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E36
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2036.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E37
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2037.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E38
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2038.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E39
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2039.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E40
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2040.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E41
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2041.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E42
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2042.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E43
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2043.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E44
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2044.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E45
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2045.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E46
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2046.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E47
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2047.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E48
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2048.mp4
+#EXTINF:-1 type="series" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mfxCaDok0RsdjRaJ9R9lfCgLdGa.jpg" group-title="▶ VOD KIDS", Kamen Rider Zi-O (2018) E49
+https://sh0w021.ohflix.workers.dev/0:/Show3/end-tv-series/Kamen%20Rider%20Zi-O/KRZio%20-%2049%20END.mp4
+
+
+###############################################################################################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8Ib5YCu3opbGlO8YuQ30tVRYnuc.jpg" group-title="▶ VOD KIDS",Kamen Rider Agito Project G4 (2001)
+https://www.dropbox.com/scl/fi/7tbgq0u2og2yws6uvntl6/Rider-Lupa-Ingatan-Project-G4.mp4?rlkey=27sw3w1dya34l65e4nc81pwz0&st=3qvvwieb&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/o4DE92uHtuG8BEalnXDWLhq5yKl.jpg" group-title="▶ VOD KIDS",Kamen Rider Ryuki Episode Final (2002)
+https://www.dropbox.com/scl/fi/b700bzabiuvuhvqul8tlz/Ryuki_Episode_Final.mkv?rlkey=kwq5klwt2gx53a5idme1tnw5n&st=g1o8rinj&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wGulq1k64WTL6r6QygE25I2JxKb.jpg" group-title="▶ VOD KIDS",Kamen Rider 555 Paradise Lost (2003)
+https://www.dropbox.com/scl/fi/2dtloet47vqofppeq32ep/Kamen-Rider-555-Paradise-Lost-2003.mp4?rlkey=t0t2giieftvfuc2rmm1viqc5s&st=7ivjh2kc&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tdQLPHz6CLUYd0PydTSju2nkpfN.jpg" group-title="▶ VOD KIDS",Kamen Rider Blade Missing Ace (2004)
+https://www.dropbox.com/scl/fi/f4kcqd0mkojvt1z8hlhwb/Kamen-Rider-Blade-Missing-Ace-2004.mp4?rlkey=p98revniet2bbuk5t55sto89s&st=4lcvy447&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ywDWzzra3ayHKVmT3HrocA85yl8.jpg" group-title="▶ VOD KIDS",Kamen Rider Hibiki & The Seven War Oni (2005)
+https://www.dropbox.com/scl/fi/8ylpt4ol9guw0nvznsp4w/Hibiki-The-Seven-War-Oni-2005.mp4?rlkey=is19145g2knzhvda0kmjfw1sg&st=tu9uz7yh&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7eRCsy1ES4cTcYSBjuOFaaomFCJ.jpg" group-title="▶ VOD KIDS",Kamen Rider Kabuto God Speed Love (2006)
+https://www.dropbox.com/scl/fi/raf8k84lym63txs5z86sw/Kamen-Rider-Kabuto-God-Speed-Love-2006.mp4?rlkey=wzl2jvsql2qwhvedcbxrdwt43&st=vrpr75f1&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/48AHpedVGxljPdze25fqhiK11ee.jpg" group-title="▶ VOD KIDS",Kamen Rider Den-O I'm Born! (2007)
+https://www.dropbox.com/scl/fi/u5n6budk31z7cx7twu0xl/Kamen-Rider-Den-O-The-Movie-Im-Born.mkv?rlkey=f2jifj2puuf8lu66jwebqk4oj&st=ohky0gtx&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jYihhpuMbCicwjEFGeahYBm1PG8.jpg" group-title="▶ VOD KIDS",Kamen Rider Den-O Final Countdown (2008)
+https://www.dropbox.com/scl/fi/s1rlz1ix0z8frm1ukpvkk/Kamen-Rider-Den-O-Final-Countdown.mkv?rlkey=0zhir39ozm9cg4s6zvbdh9nd3&st=jvuspscf&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wDxOYPQI5jwRIHlJpfA9DxoLxma.jpg" group-title="▶ VOD KIDS",Kamen Rider Den-O & Kiva Climax Deka (2008)
+https://www.dropbox.com/scl/fi/tucwnwwast1c39f4zf99x/Kamen-Rider-Den-O-Kiva-Climax-Deka.mkv?rlkey=jutdcxd2bj5walg84o4fgjkhx&st=2htatp46&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/pZNhRgJReSLyFMqIDQcmMeIiQVd.jpg" group-title="▶ VOD KIDS",Kamen Rider Decade All Riders vs. Dai-Shocker (2009)
+https://www.dropbox.com/scl/fi/hbfrz12h64mha0972ntdv/Kamen-rider-Decade-All-Riders-VS-DaiShocker.mp4?rlkey=ydh1ht5kzlghiaijc7swsv48q&st=xctciy25&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6ueHqbnJAs8pcnq4cDVKuR8ucvU.jpg" group-title="▶ VOD KIDS",Kamen Rider Den-O Trilogy Episode Yellow (2010)
+https://www.dropbox.com/scl/fi/orb23tdv91hcknbc5kr1q/Kamen-Rider-Den-O-Trilogy-Episode-Yellow.mkv?rlkey=s84h3ai0pqemqf1fuetf0bjoi&st=q1qoaeaa&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/k53uFP8lLCinMQGP4bY6kuwKLp8.jpg" group-title="▶ VOD KIDS",Kamen Rider W & Decade Movie War (2010)
+https://www.dropbox.com/scl/fi/lt5lkzgb1eb2dvm5fmcds/Kamen-Rider-W-Decade-Movie-War-2010.mp4?rlkey=jug0t91r7zqv5toryhry2r9pg&st=mrq9061q&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g6ZhgWU4l24Ifh7rpiOTYzbbouT.jpg" group-title="▶ VOD KIDS",Kamen Rider W Forever A to Z/The Gaia Memories of Fate (2010)
+https://www.dropbox.com/scl/fi/e9yk5zfb0d3gtq7jjnckw/Kamen-Rider-W-Forever-A-to-Z-The-Gaia-Memories-of-Fate-2010.mp4?rlkey=7784xuqwtgenco9hogplw93oj&st=jgjrv4hw&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qIbmmg4YnwemPftvFx9f3XKvCdC.jpg" group-title="▶ VOD KIDS",Kamen Rider W Returns Kamen Rider Accel (2011)
+https://www.dropbox.com/scl/fi/596aaqiwkyozlh06hzijf/Kamen-Rider-W-Returns-Kamen-Rider-Accel-2011.mp4?rlkey=74o255bsdmg2tp6nhykyu8vo5&st=3joeeeyf&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vzjKhUUeaTRX4quxtQWkI2RVb7r.jpg" group-title="▶ VOD KIDS",Kamen Rider W Returns Kamen Rider Eternal (2011)
+https://www.dropbox.com/scl/fi/bywudedlz0q7gs51ieqvp/Kamen-Rider-W-Returns-Kamen-Rider-Eternal-2011.mp4?rlkey=tqij0ec6omnzx3c1pjrh43ljx&st=fwej2xjg&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/q8hPXJ7awwShDLUZRxq8yxdibLK.jpg" group-title="▶ VOD KIDS",Kamen Rider OOO & W Featuring Skull Movie Wars Core (2010)
+https://www.dropbox.com/scl/fi/orc5eil1mjw7011vrurdr/Kamen-Rider-OOO-W-Featuring-Skull-Movie-Wars-Core-2011.mp4?rlkey=gjdofg5qwp9s40o4wyhdqaf2z&st=lodyi345&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/enCI82X2GmfopmRggt8v4xOPTyW.jpg" group-title="▶ VOD KIDS",OOO Den-O All Riders Let's Go Kamen Riders (2011)
+https://www.dropbox.com/scl/fi/0h55piu65jlq7rfc1dnzu/OOO-Den-O-All-Riders-Lets-Go-Kamen-Riders-2011.mp4?rlkey=sonyfjaedosd5jnqosmgk3hve&st=33k4hixt&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/77SkoCBagAO1unTpBwTSKAzNbJQ.jpg" group-title="▶ VOD KIDS",Kamen Rider OOO Wonderful The Shogun and the 21 Core Medals (2011)
+https://www.dropbox.com/scl/fi/0fnw4dsvvdrtymvhx4qyq/Kamen-Rider-OOO-the-Shogun-and-the-21-Core-Medals-2011.mp4?rlkey=9lh56gopwdsqmy31n1i5vvrei&st=4nuplutk&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rMD6t6pLzzAAtVF6A7PgJEC9S1m.jpg" group-title="▶ VOD KIDS",Kamen Rider Fourze & OOO Movie Wars Mega Max (2011)
+https://www.dropbox.com/scl/fi/zmggnacyjilk8vet9o8q3/Kamen-Rider-Fourze-OOO-MOVIE-War-MEGA-MAX-2012.mp4?rlkey=ws1o1bzak0fbcdkl09sqp8ice&st=05g8u18d&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/315YkN469xibroxtdyDUof6dPoG.jpg" group-title="▶ VOD KIDS",Kamen Rider × Super Sentai Super Hero Wars (2012)
+https://www.dropbox.com/scl/fi/f736g1lbf84xkyn2alcdv/Kamen-Rider-Super-Sentai-Super-Hero-Taisen-2012.mp4?rlkey=mr2u8mrisnpwrtmp1701co7be&st=e7wjcubg&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/sI8DdwcGdGRMyijc5cLsFHwKCog.jpg" group-title="▶ VOD KIDS",Kamen Rider Fourze The Movie Its Space Time Everybody! (2012)
+https://www.dropbox.com/scl/fi/36gejux7ccftnbhzbvb3l/Kamen-Rider-Fourze-Everyone-Lets-Feel-the-Universe-2012.mp4?rlkey=lxjl156yav1170sb8vtsxhnf5&st=2wla0d8j&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/7T5XB93Kgcw7lEF9y84ji4hn8x2.jpg" group-title="▶ VOD KIDS",Kamen Rider Wizard & Fourze Movie Wars Ultimatum (2012)
+https://www.dropbox.com/scl/fi/p2jesm3a0sks9x7vw4khw/Kamen-Rider-Wizard-Fourze-MOVIE-War-Ultimatum-2013.mp4?rlkey=p8uyu337xq0c4dzgdyefu3rr9&st=tvv2bxqu&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/djDhEs3vnnH0SNtTC2IzLOuu4fd.jpg" group-title="▶ VOD KIDS",Super Hero Wars Z (2013)
+https://www.dropbox.com/scl/fi/8ymr6jggusix22uhrwqfe/Super-Hero-Taisen-Z-2013.mp4?rlkey=9oquu81yhbnjyb6prxykt74or&st=yao5ef2g&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/cX5iSQsCeLn1VfLWvSoAEwdTWJk.jpg" group-title="▶ VOD KIDS",Kamen Rider Wizard in Magic Land (2013)
+https://www.dropbox.com/scl/fi/aqpagj0a9zqxlkwhojwj4/kamen-rider-wizard-in-magic-land-2013.mp4?rlkey=btvh1t5dbs3expm5s19kh172b&st=3gdekx79&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5vmARcFl54nFgJ5F34ZsHmSsWdc.jpg" group-title="▶ VOD KIDS",Kamen Rider Gaim & Wizard The Fateful Feudal Movie Wars (2013)
+https://www.dropbox.com/scl/fi/52oa5nvhhyawfp3bligxa/Kamen-Rider-Gaim-Wizard-The-Fateful-Sengoku-2014.mp4?rlkey=hi3295yjs6irhc9iyqfopqa52&st=nysivju7&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/Aizl6PWROQ3bGUnOpXiamkkyZfs.jpg" group-title="▶ VOD KIDS",Heisei Rider vs. Showa Rider Kamen Rider Wars feat. Super Sentai (2014)
+https://www.dropbox.com/scl/fi/nkzi2tde28q5aexlbzag6/Heisei-Riders-vs.-Showa-Riders-Kamen-Rider-Taisen-Super-Sentai-2014.mp4?rlkey=ywtens9fuiavzf1a6z8psdvxa&st=xai5bg38&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eSCaqh6DO2neNkjwFt1DbboJGsb.jpg" group-title="▶ VOD KIDS",Kamen Rider Gaim the Movie Great Soccer Battle! Golden Fruits Cup! (2014)
+https://www.dropbox.com/scl/fi/01eo97lagkpc40pyka0io/Kamen-Rider-Gaim-The-Movie-Great-Soccer-Battle-Golden-Fruits-Cup2014.mp4?rlkey=1lwe81wvh1nkyds3v4ad3wnjs&st=l9fv4ec0&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hyxV8H3Av3y8HctJb5cNkTLSt0L.jpg" group-title="▶ VOD KIDS",Kamen Rider Drive & Gaim Movie Wars Full Throttle (2014)
+https://www.dropbox.com/scl/fi/85kr9vrjnqupb0zd7olzf/Kamen-Rider-Drive-Gaim-MOVIE-War-Full-Throttle-2014.mp4?rlkey=87ll186pekvvtx1l2ktwhttn4&st=hmtturli&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/11a3OSk7BuoSBOh261FZR7Lk2Ec.jpg" group-title="▶ VOD KIDS",Super Hero Wars GP Kamen Rider #3 (2015)
+https://www.dropbox.com/scl/fi/xumo8j6mubvlise7n0xfp/Superhero-Wars-GP-Kamen-Rider-3-2015.mp4?rlkey=7pwffhburqp4ai8z4w6ndk1sn&st=h1ddx4nn&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1Szyu1BPryIGAR3bbcxfXBUx858.jpg" group-title="▶ VOD KIDS",Kamen Rider Ghost & Drive Super Movie Wars Genesis (2015)
+https://www.dropbox.com/scl/fi/l2b2efg3lkdn7d3wcrsc7/Kamen-rider-x-kamen-rider-ghost-drive-chou-movie-war-genesis-2015.mp4?rlkey=y2y0tmmltf0ddkldnmgrt44er&st=16cy71rs&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/a4AjuaCc36ImToUVS1C6pSdzwQV.jpg" group-title="▶ VOD KIDS",Kamen Rider Ghost The 100 Eyecons and Ghost’s Fateful Moment (2016)
+https://www.dropbox.com/scl/fi/vxgrxhvi7ndn3aqoe7yrc/Kamen-rider-ghost-movie-100-eyecons-ghosts-fateful-moment-2016.mp4?rlkey=2i5dyl7wccd096r08j2r189tx&st=8vmlo01o&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g9WiAgtGMAuenJapwQXPVkbDWPP.jpg" group-title="▶ VOD KIDS",Kamen Rider Ex-Aid the Movie True Ending (2017)
+https://www.dropbox.com/scl/fi/18hyepuvs3n958ugskhxr/kamen-rider-ex-aid-true-ending-2017.mp4?rlkey=pcvo45r0diw7fmaeemkt5zvu0&st=xapu5sq7&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xcIBGEUf2f2aOQnTlbLT3NA9W4S.jpg" group-title="▶ VOD KIDS",Kamen Rider Heisei Generations Final Build & Ex-Aid (2017)
+https://www.dropbox.com/scl/fi/4rxgklaltk2kq07h2hthg/Kamen-Rider-Heisei-Generations-Final-2017.mp4?rlkey=xerolespo22jimhsrjudr52f9&st=li5pyi09&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/i8qAIvjYzzJio4mBf6OXkd3ML8i.jpg" group-title="▶ VOD KIDS",Kamen Rider Build Be The One (2018)
+https://www.dropbox.com/scl/fi/m95yzoably0besk7wyjre/Kamen-Rider-Build-Be-the-One.2018.mp4?rlkey=m38nyawqma79c0ru6oh78r47n&st=mipdb67j&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kHMuyjlvNIwhCaDFiRwnl45wF7z.jpg" group-title="▶ VOD KIDS",Kamen Rider Heisei Generations Forever (2018)
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Kamen%20Rider%20Heisei%20Generations.mp4
+https://www.dropbox.com/scl/fi/blzv69zoukt4vi4vu6txh/Kamen_Rider_Heisei_Generations_Forever_2018.mp4?rlkey=lfh9vcivdugkdw98tjjfktw40&st=3dfdsrr9&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1dBh2g44wnRUypqPiPwGmCpbce0.jpg" group-title="▶ VOD KIDS",Kamen Rider Zi-O the Movie Over Quartzer (2019)
+https://www.dropbox.com/scl/fi/l99rbrhzkvlph1j0kz70t/Kamen_Rider_Zi_O_Over_Quartzer_2019.mp4?rlkey=sv1q4o9imn4djgtm2637tk3of&st=39djxuf8&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aTTB2rdlYAlLuQa9Y2rAVml4Nqg.jpg" group-title="▶ VOD KIDS",Kamen Rider Reiwa The First Generation (2019)
+https://www.dropbox.com/scl/fi/0dj3xgwhvec3spoxkb1u2/Kamen_Rider_Reiwa_The_First_Generation_2019.mp4?rlkey=ldi0eqqo7dchio8z3mwy55ero&st=lxffid1e&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mew5d3ZzFfVxFyPZ8ydJb18UOpr.jpg" group-title="▶ VOD KIDS",Kamen Rider Zi-O Next Time Geiz, Majesty (2020)
+https://www.dropbox.com/scl/fi/5hu4dzv4gl0pp39x3b6ew/Kamen-Rider-Zi-O-Next-Time-Geiz-Majesty.mp4?rlkey=4whu2ewwv7uuxsfbfr5bymj3j&st=skzeh9yx&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fbhCFNn5qhMCfdcqqZmKUKJM84.jpg" group-title="▶ VOD KIDS",Kamen Rider Zero-One Real Time (2020)
+https://www.dropbox.com/scl/fi/o7lpq4cffl939k4y7k1pt/Kamen-Rider-Zero-One_-Real-X-Time-2020.mp4?rlkey=u542or4cbgh0xuccl9a1cv0ab&st=6bb99seg&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/i5NNmH9Sr2AKRayqxx2TkE1fRQl.jpg" group-title="▶ VOD KIDS",Kamen Rider Saber The Phoenix Swordsman and the Book of Ruin (2020)
+https://www.dropbox.com/scl/fi/af2gr919xrvzl834z3dza/Kamen-Rider-Saber-Short-Movie-The-Phoenix-Swordsman-2021.mp4?rlkey=ms298yjld3k7cry8tcjr8pmkp&st=tsk67rl8&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tyIBW4AUvACoJwuFZm14e7aptK9.jpg" group-title="▶ VOD KIDS",Kamen Rider Saber Sentai Zenkaiger Super Hero Chronicles (2021)
+https://www.dropbox.com/scl/fi/2jqyd71on6f5p9mefd9sj/Kamen-Rider-Saber-Kikai-Sentai-Zenkaiger-Superhero-Senki-2021.mp4?rlkey=hrw055d2p90cfr14covzdcycj&st=6796mimb&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/fnPBGTzP7GDUrxfogx5x0PTeosd.jpg" group-title="▶ VOD KIDS",Kamen Rider Revice The Movie (2021)
+https://www.dropbox.com/scl/fi/6uq62tyf26gwwu1m5xgsb/Kamen-Rider-Revice-The-Movie-2021.mp4?rlkey=m1mqnvckzg44pgz6bictj3dk2&st=4l01a661&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/veMeadVbwoa2V7kzzNzoS2yQ59D.jpg" group-title="▶ VOD KIDS",Kamen Rider Beyond Generations (2021)
+https://www.dropbox.com/scl/fi/z3kpdnotnwwkxgo6b2o0l/Kamen-Rider_-Beyond-Generations-2021.mp4?rlkey=gldfpt1bcbdt7x71pip37jgrq&st=imgvhzz1&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vQN39hLDMInXI1pa7Gt4zf1LoF9.jpg" group-title="▶ VOD KIDS",Kamen Rider Revice the Movie Battle Familia (2022)
+https://www.dropbox.com/scl/fi/rvuq4ucatsq94z2estcv1/Kamen-Rider-Revice_-Battle-Familia-2022.mkv?rlkey=1404z7dglnnb1ppcrwn5o22qv&st=jitqfy5d&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jqTWihvV6P5TMiCQ6klCe9S7Oz3.jpg" group-title="▶ VOD KIDS",Kamen Rider OOO 10th The Core Medals of Resurrection (2022)
+https://www.dropbox.com/scl/fi/8cuzwp6tp1rcudy4l62x5/Kamen-Rider-OOO-10th-Core-Medal-of-Resurrection-2021.mp4?rlkey=nkjhz3fly1iwk6ja7x9qc89jw&st=pxozcrmw&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wwKOQPKYijGqLdqY7Bp4orYmA5E.jpg" group-title="▶ VOD KIDS",Kamen Rider Geats × Revice Movie Battle Royale (2022)
+https://www.dropbox.com/scl/fi/dvp1yzi7mn9xihgqtu84w/Kamen-Rider-Geats-Revice-Movie-Battle-Royale-2022.mp4?rlkey=ex4hy2w6b7jko6bu6gv3ddrxa&st=989q3ta6&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kiXsuX5qAFUxHvf9BM7MPadFq62.jpg" group-title="▶ VOD KIDS",Kamen Rider Geats: 4 Aces and the Black Fox (2023)
+https://www.dropbox.com/scl/fi/ia82iewqwmt6a7808wvc4/Kamen-Rider-Geats-The-Movie-4-Aces-and-the-Black-Fox-2023.mp4?rlkey=5q9b48h6nb7iw74cw8dabwbj0&st=ioq763tj&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kmRtuHki8WAIzt9zkF849WbOws5.jpg" group-title="▶ VOD KIDS",Kamen Rider The Winter Movie Gotchard & Geats (2023)
+https://www.dropbox.com/scl/fi/bceezjatrx6ihcqhgbmx8/Kamen-Rider-The-Winter-Movie-Gotchard-Geats2023.mp4?rlkey=0iysoe0oo8abv6kcgxxkp2sc4&st=byirhcok&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qf73jO3I2NkhtgEKo0U2b8znLy8.jpg" group-title="▶ VOD KIDS",Kamen Rider 555 20th Paradise Regained (2024)
+https://www.dropbox.com/scl/fi/1p848ysmfs0mrjt21cpkw/Kamen-Rider-555-20th_-Paradise-Regained-2024.mp4?rlkey=mkaxjt95iifhg4rknx5ogk7kx&st=6yyjt4w3&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/h0Kggr3bkXqJdXIri8XAxy1NhUp.jpg" group-title="▶ VOD KIDS",Kamen Rider Gotchard: The Future Daybreak (2024)
+https://www.dropbox.com/scl/fi/8i9q08o5vawzkd5glr5io/Kamen_Rider_Gotchard_The_MovieThe_Future_Daybreak2024.mp4?rlkey=mclvptvn81u2bt42nhwqzlzrk&st=3q8sdr6j&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5y41tKwuRInEjpFWVIC1oKQqSOm.jpg" group-title="▶ VOD KIDS",Kamen Rider Gavv Invaders of the Candy House (2025)
+https://www.dropbox.com/scl/fi/z1mpbdlqq0b2ygbsnbev9/Kamen_Rider_GavvThe_Candy_House_Invaders2025.mp4?rlkey=xrz4p9qjd2okdnkrryrjdi6pn&st=dbs8kc2i&dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wHZQMxAyFUfCU8kHF50GcO2NHVB.jpg" group-title="▶ VOD KIDS",Ultraman Mebius & Ultra Brothers (2006)
+https://www.dropbox.com/scl/fi/5xvyn8wkg0xpodi585su6/Ultraman-Mebius-dan-Ultra-Brothers.mp4?rlkey=3rux572u8xjrruw21dbngnpao&st=41dfoo4p&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kPQcEXuI9Yz1nlEYXXBBPKy0Nyw.jpg" group-title="▶ VOD KIDS",Superior Ultra 8 Brothers (2008)
+https://www.dropbox.com/scl/fi/o7al7p6dyheqxly3iyige/Superior-Ultraman-8-Brothers-2008.mp4?rlkey=c45s54hidbqryc7oky1db0ji6&st=0kufrnvz&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gylqnQIeXF6pN08UBqY7B82Myxg.jpg" group-title="▶ VOD KIDS",Mega Monster Battle Ultra Galaxy Legends The Movie (2009)
+https://www.dropbox.com/scl/fi/t2b82oaetvspnvyl0cods/Mega_Monster_Battle_Ultra_Galaxy_2009.mkv?rlkey=xm9165nbowvjjaj8et9si4lwd&st=hdi70227&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/sm2hvflBrIt73PZP6ODrpWvfyrI.jpg" group-title="▶ VOD KIDS",Ultraman Zero: The Revenge of Belial (2010)
+https://www.dropbox.com/scl/fi/a1baum7v1dq7hc4djftgm/Ultraman_Zero_The_Revenge_of_Belial_2010.mp4?rlkey=igpc7ynfwwg9yqzqtf3feeye3&st=2rn7ohkc&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nGI8n07wKs9oEj26havBGPlBapG.jpg" group-title="▶ VOD KIDS",Ultraman Saga (2012)
+https://www.dropbox.com/scl/fi/2321ermsa76zi6gi1c6xj/Ultraman-Saga-The-Movie-2012.mkv?rlkey=kv446x9vw96lrebtbiohlli7t&st=30rt5uy7&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2Z0itOlWg958vluJFwh54kk459c.jpg" group-title="▶ VOD KIDS",Ultraman Ginga S the Movie Showdown! The 10 Ultra Warriors! (2015)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Ultraman%20Ginga%20S%20the%20Movie%20Showdown%20the%2010%20Ultra%20Warriors%202024-1-720.mp4
+https://www.dropbox.com/scl/fi/d65w4ze3zmkvukvwi3oj1/Ultraman-Ginga-S-The-Movie-2015.mp4?rlkey=2qi6n3cdwwhdebqpmd9n360o5&st=egyf6rao&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ddHXJzoYjN2uccHG4K5H6pwQ9BC.jpg" group-title="▶ VOD KIDS",Ultraman X The Movie Here He Comes! Our Ultraman (2016)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Ultraman%20X%20the%20Movie%20Here%20He%20Comes%20Our%20Ultraman%202024-1-720.mp4
+https://www.dropbox.com/scl/fi/hpxzdavm3k8r7ahj87bd0/Ultraman_X_the_Movie2016.mp4?rlkey=6q22njcyp54gw0xmaa2n0bw8h&st=a4ifowwq&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wP9KdWkSGWEKyGuMBGfxGjJdHLx.jpg" group-title="▶ VOD KIDS",Ultraman Orb Lend Me the Power of Bonds! (2017)
+https://www.dropbox.com/scl/fi/9731wzyecozagc7xckqh6/Ultraman-Orb-The-Movie-2017.mp4?rlkey=kdf3k9x7f52hv3qkx3kt1i2qm&st=sun4h9jt&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1BeeMq1Ul6ic7gjGOCr2lcmJVXZ.jpg" group-title="▶ VOD KIDS",Ultraman Geed the Movie Connect! The Wishes!! (2018)
+https://www.dropbox.com/scl/fi/9brgr06uhtc3dui9j4t2i/Ultraman-Geed-The-Movie-2018.mp4?rlkey=5jlyjg5yhs2tz6cc936cf48re&st=nx7kr8fk&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/pGvtKClq2x4DvvinmNnYwYeKups.jpg" group-title="▶ VOD KIDS",Ultraman R/B The Movie Select! The Crystal of Bond (2019)
+https://www.dropbox.com/scl/fi/d9txp687w1zmz35u2zkns/Ultraman_RB_The_Movie_2019.mkv?rlkey=bgvoxotrttak5y1o2u72pgpu6&st=cafgl6o4&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oF750ITKUAOaEGmIVkraH9S1Ijm.jpg" group-title="▶ VOD KIDS",Ultraman Taiga The Movie New Generation Climax (2020)
+https://www.dropbox.com/scl/fi/vjzk0s4uwwvs0fc3sqkzy/Ultraman-Taiga-The-Movie-2020.mkv?rlkey=zp5xuna6a1tc4dfdl20oktc1o&st=c5vivxq8&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3uJxz99nrQ23EE6nFDGBKi0gqdY.jpg" group-title="▶ VOD KIDS",Ultraman Trigger Episode Z (2022)
+https://www.dropbox.com/scl/fi/jowv2796lacp4ejq24oe0/Ultraman-Trigger-Episode-Z-2022.mp4?rlkey=g00t6y7zqtec5ksfw4dnrd63p&st=mp52y0hw&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bWxbx5SeN089UyDaIwaFulG6Zvs.jpg" group-title="▶ VOD KIDS",Ultraman Decker Finale Journey to Beyond (2023)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Ultraman%20Decker%20Finale%20Journey%20to%20Beyond%20(2023)-MalayDub-1-720.mp4
+https://www.dropbox.com/scl/fi/icx4nvcoiz17lwthdmpeg/Ultraman_Decker_Finale_Journey_to_Beyond_2023.mp4?rlkey=dy92u7xwkqmpoftnalk0og0r7&st=b8bv23kz&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kTOzTqTL4wemAe4tZSAMnYaDCQQ.jpg" group-title="▶ VOD KIDS",Ultraman Blazar The Movie Tokyo Kaiju Showdown (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Ultraman%20Blazar%20The%20Movie%20Tokyo%20Kaiju%20Showdown%202024-1-720.mp4
+
+
+
+===============================================================================================================================================
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg" group-title="▶ VOD KIDS",Stand by Me Doraemon 2 (2020)
+https://www.dropbox.com/scl/fi/f4eiw6ockdrhn64ycfl95/Stand.by.Me.Doraemon.2.2020.720p.BR.MalayDUB.MSM.mp4?rlkey=at5y80s0senyd0ihhm45qpy43&st=0r7ugioc&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg" group-title="▶ VOD KIDS",Stand by Me Doraemon (2014)
+https://www.dropbox.com/scl/fi/fapu5n1c7y4tg390nhn44/Stand.by.Me.Doraemon.2014.720p.BR.MalayDUB.MSM.mp4?rlkey=f8aa3bqwj5s42ou2hzvfia1pz&st=m7jvr2o4&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mKkYq96Qf8duNWds7aBqzAXDpje.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita and the New Castle of the Undersea Devil (2026)
+https://stream.playcdn.de/playlist/2c18ad784acbd1b27764c5427bfcfe6a/1/0.m3u8?x=1
+https://www.dropbox.com/scl/fi/7nbh6kht31lrsk3e4tc22/Doraemon.New.Nobita.and.the.Castle.of.the.Undersea.Devil.mp4?rlkey=jrptntn5vkx7hedzffk8febs9&st=79z9me7u&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://www.gscmovies.com.my/wp-content/uploads/2025/06/6.jpg" group-title="▶ VOD KIDS",Doraemon the Movie Nobita's Art World Tales (2025)
+https://stream.playcdn.de/playlist/a244dda58f66bbe86d4f85c3d9e09125/4/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/uet0dmmdxoqs91xna2vof/Doraemon-Nobita-s-Art-World-Tales-2025.mkv?rlkey=klubwoxpa3pqf7uq1ykjgpjde&st=zqj9fyhc&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg" group-title="▶ VOD KIDS",Doraemon the Movie Nobita's Earth Symphony (2024)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Doraemon%20the%20Movie%20Nobitas%20Earth%20Symphony%202024-1-720.mp4
+https://www.dropbox.com/scl/fi/xy2bn15mukxrssa49rtzb/Doraemon-Nobita-s-Earth-Symphony-2024.mp4?rlkey=to5a39hkbvwp9aylr3mvhl35z&st=jcc07fpp&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uux6M8z3hxLDkq8LXSzq8528mrq.jpg" group-title="▶ VOD KIDS",Doraemon the Movie Nobita's Sky Utopia (2023)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Doraemon%20The%20Movie%20Nobitas%20Sky%20Utopia%202023-1-720.mp4
+https://www.dropbox.com/scl/fi/5y55a8eg1v8zy76ade59s/Doraemon.Nobitas.Sky.Utopia.2023.720p.BluRay.MalaySub.MSM.mp4?rlkey=9v9nxfjeerajjj4azck6zvuw9&st=6wwcczqt&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/48gKZioIDeUOI0afbYv3kh9u9RQ.jpg" group-title="▶ VOD KIDS",Doraemon the Movie Nobita's Little Star Wars 2021 (2022)
+https://stream.playcdn.de/playlist/04da22fc98450044e492a67be30377e8/1/480.m3u8
+https://www.dropbox.com/scl/fi/d07vb9tunqremmmh2m4oz/Doraemon-Nobita-s-Little-Star-Wars-2021.mp4?rlkey=lhvq9xidwnmceklumwp5x4yl3&st=aojb88aa&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.pinimg.com/736x/a7/f2/94/a7f294bcaeab316ae250fc55aa4e2aea.jpg" group-title="▶ VOD KIDS",Doraemon the Movie Nobita's New Dinosaur (2020)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Doraemon%20The%20Movie%20Nobitas%20New%20Dinosaur%20(2020).mp4
+https://www.dropbox.com/scl/fi/wrs3tf2jio7kleb10wl9a/Doraemon-Nobita-s-New-Dinosaur-2020.mp4?rlkey=kc3rzkq34eb56b1ljwsocpj0r&st=6vy2h9yu&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zAZ43208e643rB3pcx8jsLqc6B9.jpg" group-title="▶ VOD KIDS",Doraemon Nobita's Chronicle of the Moon Exploration (2019)
+https://www.dropbox.com/scl/fi/a6hy4r1es8esd5g86nzqd/Doraemon.Movie.2019.720p.BR.MalayDub.ProAce.mp4?rlkey=kh6gmmq5ejh33qtpqzik3779x&st=xrrrsvqm&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17615942_v_v13_ac.jpg" group-title="▶ VOD KIDS",Doraemon the Movie Nobita's Treasure Island (2018)
+https://www.dropbox.com/scl/fi/xy60ct9rgoydivw2hgqye/Doraemon.Movie.2018.720p.BR.MalayDub.ProAce.mp4?rlkey=2lnipvayfo8tmtfqzb4ou6f4n&st=ko1n9lbe&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hcydn0Lr3DAixZFOaUmjoqoIFU6.jpg" group-title="▶ VOD KIDS",Doraemon Great Adventure in the Antarctic Kachi Kochi (2017)
+https://www.dropbox.com/scl/fi/h0wp81bgj4uzm7vkxsb1j/Doraemon.Movie.2017.720p.BR.MalayDub.ProAce.mp4?rlkey=qjwemlff939hzrmztvdmi4tto&st=6mjiix81&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/yF6pCSsRKkN5RzeU01OzXOzTyVQ.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Birth of Japan (2016)
+https://www.dropbox.com/scl/fi/6en57457jsxukkme8hb17/Doraemon.Movie.2016.720p.BR.MalayDub.MSM.mp4?rlkey=4phl7cl40vmbpkujxybtarcto&st=9arv72bp&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pYVJgcuCU9swa7GEujygsRdkSQd.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Space Heroes (2015)
+https://www.dropbox.com/scl/fi/343hqmdrggob6ltfyp2t1/Doraemon.Movie.2015.720p.BR.MalayDub.ProAce.mp4?rlkey=c3tlgd077y7ir8vmv5bhq4pt6&st=s3v5k89t&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xKGMXQFGca4nKcO308aZ6nWz0Gc.jpg" group-title="▶ VOD KIDS",Doraemon New Nobita's Great Demon-Peko and the Exploration Party of Five (2014)
+https://www.dropbox.com/scl/fi/w2xpev2uivrpbrnghf860/Doraemon-Nobita-in-the-New-Haunts-of-Evil-Peko-and-the-Five-Explorers-2014.mp4?rlkey=bhpfdlhwpb5ecska9h20fgojh&st=r1q592sz&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cOPhayPb0YzO8GfC4sNmntV9FWE.jpg" group-title="▶ VOD KIDS",Doraemon Nobita's Secret Gadget Museum (2013)
+https://www.dropbox.com/scl/fi/t1xidof2u1wkdlqle7mxf/Doraemon.Movie.2013.720p.BR.MalayDUB.ProAce.mp4?rlkey=r8rtywtj83noupve00p6ehnn9&st=3sd9p32c&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mUJGtID4UyO6nLE0Ztqq48y4Hdw.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Island of Miracles Animal Adventure (2012)
+https://www.dropbox.com/scl/fi/0vdmhd4cs2v25c16m5pv1/Doraemon.Movie.2012.720p.BR.MalayDUB.ProAce.mp4?rlkey=d83r25gyiaknef28v5sd87vm4&st=3asui9is&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/57ighjFjXpRwg7VeQ1GN6nf4OZH.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the New Steel Troops Winged Angels (2011)
+https://www.dropbox.com/scl/fi/jjmlxablldpofdbbeby51/Doraemon.Movie.2011.720p.BR.MalayDUB.ProAce.mp4?rlkey=lh1dabcp5fo9bohsw9i5wilsj&st=qjqbeu2d&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lvi0MjGJvWPAAqQaxCwwMsLqBG8.jpg" group-title="▶ VOD KIDS",Doraemon Nobita's Great Battle of the Mermaid King (2010)
+https://www.dropbox.com/scl/fi/oykqy8g1x4x3o9o8qpqai/Doraemon.Movie.2010.720p.BR.MalayDUB.ProAce.mp4?rlkey=ksgyb88kvodhb2u86nl73v0nu&st=lsa399de&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6F5mriTD7HrVSJf7o0BrAedw5LX.jpg" group-title="▶ VOD KIDS",Doraemon: The New Record of Nobita's Spaceblazer (2009)
+https://www.dropbox.com/scl/fi/vipne3sawc0w46iy1eyxb/Doraemon.Movie.2009.720p.BR.MalayDUB.ProAce.mp4?rlkey=vhreq55kbgtaoczj57c6y532c&st=rtb4omqd&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jY2c8s4s8YyGxuxX8ymmzGUdnwZ.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Green Giant Legend (2008)
+https://www.dropbox.com/scl/fi/vy89wsz9dcc86t8e18jxj/Doraemon.Movie.2008.720p.BR.MalayDUB.ProAce.mp4?rlkey=i56vseigsw5hhklgph9xdziz7&st=m4azkcau&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2PlFFcAq9PcFEGgA0Znvut3kmVL.jpg" group-title="▶ VOD KIDS",Doraemon: Nobita's New Great Adventure into the Underworld (2007)
+https://www.dropbox.com/scl/fi/nx90oi3poqtn8gjs1a62b/Doraemon.Movie.2007.720p.BR.MalayDUB.ProAce.mp4?rlkey=edbxpm0edybvvqi5nt08gpj23&st=0cd4zr8j&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/g0D94CrNm8bTCgHdpURTmR46s1Q.jpg" group-title="▶ VOD KIDS",Doraemon Nobita's Dinosaur (2006)
+https://www.dropbox.com/scl/fi/9pdgzm61t7h7wkdt27xda/Doraemon.Movie.2006.720p.BR.MalayDUB.ProAce.mp4?rlkey=qiyavsgzuw6lawpawtfwqetll&st=nzqu9qhk&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gBYEK5Kv8uVZGoTbBcovIcWjKNI.jpg" group-title="▶ VOD KIDS",Doraemon Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+https://www.dropbox.com/scl/fi/o1ya9d7x1zkhw40up5uxi/Doraemon.Movie.2004.720p.WEB.MalayDub.ProAce.mp4?rlkey=rqkea9hfryupbn8ldh9gvaqgs&st=1ey6mgb0&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kdBLKFviJckRXOCgPqkTQK16Rq0.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Windmasters (2003)
+https://www.dropbox.com/scl/fi/do87ihaabsrnq4qhez84t/Doraemon.Movie.2003.720p.WEB.MalayDub.ProAce.mp4?rlkey=sx6lrdccf8ywbfv0fzrvap1j0&st=uod8njsw&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qsr4Hcdh2xWtUDQumjiML5cirNW.jpg" group-title="▶ VOD KIDS",Doraemon Nobita in the Robot Kingdom (2002)
+https://www.dropbox.com/scl/fi/1rx8lslbe5gkoeavv73f2/Doraemon.Movie.2002.720p.WEB.MalayDub.ProAce.mp4?rlkey=jefcu1hs0fotv4a2a1g5tn3md&st=04ofx7ks&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yrxoFlx8b8rPQz3BbQq0Wj8d1ya.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Winged Braves (2001)
+https://www.dropbox.com/scl/fi/9n40qaiyvrp07o6a1kf8m/Doraemon.Movie.2001.720p.HDTV.MalayDub.ProAce.mp4?rlkey=687hotbfdxtmhg3gbrjfap7lf&st=iash67yn&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aBPaU4bnqrnKrKe0gi6nC9qvlLj.jpg" group-title="▶ VOD KIDS",Doraemon Nobita and the Legend of the Sun King (2000)
+https://www.dropbox.com/scl/fi/ofvo8zr9fg3eg3yjlc60k/Doraemon-Nobita-and-the-Legend-of-the-Sun-King-2000.mp4?rlkey=gdj1xs24i50d0meqt8ieb75cc&st=aispfwwl&dl=1
+
+=========================================================================================================================================================
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg" group-title="▶ VOD KIDS",Howl’s Moving Castle (2004)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/72/Howls%20Moving%20Castle%20(2004)ok-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/47b1EwFqqSWxYna7NtUM7iML4oT.jpg" group-title="▶ VOD KIDS",Final Fantasy The Spirits Within (2001)
+https://stream.playcdn.de/playlist/00131cf785bc90a5c219509e9234d7fb/5/480.m3u8
+https://www.dropbox.com/scl/fi/djnn9nsfmsodua32hpqwn/Final-Fantasy-The-Spirits-Within-2001.mkv?rlkey=htz4f9h15u64ubd1vzp8w1y38&st=wydj8z53&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg" group-title="▶ VOD KIDS",Final Fantasy VII Advent Children (2005)
+https://stream.playcdn.de/playlist/ac4c6e7e8487fd58496fca7c0a04f524/3/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/1egqdon497jbgd1q2yi44/Final-Fantasy-VII-Advent-Children-2005.mp4?rlkey=9qzw0pv8kllnshv6tcyl1wxh0&st=o9hrbnuc&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xGMgspge6uYoypRiasAmlluDlXH.jpg" group-title="▶ VOD KIDS",Kingsglaive Final Fantasy XV (2016)
+https://stream.playcdn.de/playlist/0913977c5fc768545b7fd0c805fc3bb6/6/480.m3u8
+https://www.dropbox.com/scl/fi/0yj56rme54yhh0knbkvfi/Kingsglaive-Final-Fantasy-XV-2016.mkv?rlkey=dr6qsvk9bima2gszf36pgzmd3&st=eogk5450&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg" group-title="▶ VOD KIDS",The Cat Returns (2002)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/The%20Cat%20Returns%20(2002)-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ipiYeecAshSsZE9RuYwHIVrHisa.jpg" group-title="▶ VOD KIDS",Toy Story 5 (2026)
+https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/owsq0vj2zwsz2kee0hwg6/Toy.Story.5.2026.mp4?rlkey=laj5ci32wwfrpc2gxa26v7he5&st=2fr938d2&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg" group-title="▶ VOD KIDS",Toy Story 4 (2019)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Toy.Story.4.2019.BluRay.720p.Malay%20Hardsub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg" group-title="▶ VOD KIDS",Toy Story 3 (2010)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Toy.Story.3.2010.BrRip.x264.720p.YIFY.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg" group-title="▶ VOD KIDS",Toy Story 2 (1999)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Toy.Story.2.1999.720p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="▶ VOD KIDS",Toy Story (1995)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Toy.Story.1995.720p.BluRay.x264.YIFY.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="▶ VOD KIDS",The Super Mario Bros. Movie (2023)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru37/The%20Super%20Mario%20Bros.%20Movie%20(2023)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="▶ VOD KIDS",The Super Mario Galaxy Movie (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20Super%20Mario%20Galaxy%20Movie%202026-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="▶ VOD KIDS",Zootopia 2 (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Zootopia%202%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg" group-title="▶ VOD KIDS",Zootopia (2016)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/Zootopia%202016.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg" group-title="▶ VOD KIDS",The Croods (2013)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/38/The%20Croods%202013.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="▶ VOD KIDS",Moana 2 (2024)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Moana%202%20(2024)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg" group-title="▶ VOD KIDS",Moana (2016)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Moana%202016-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon (2010)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon.mp4
+https://www.dropbox.com/scl/fi/fyrvwmkmqd3xzah3kmmar/How.to.Train.Your.Dragon.2010.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=8pp3v3y5jfz8xt0yqtaqhrzah&st=lsmayces&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 2 (2014)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon%20(2).mp4
+https://www.dropbox.com/scl/fi/ngno8tm4e8y6g2q6iiqg9/How.to.Train.Your.Dragon.2.2014.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=ore2ztit03djt4b1z23zw1osb&st=donq217o&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 3 The Hidden World (2019)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon%20(3).mp4
+https://www.dropbox.com/scl/fi/pkzygwc0op207e6tw6afj/How_to_Train_Your_Dragon_The_Hidden_World_2019_720p_BR_MalayDub.mp4?rlkey=cn3tro49hj28rifecnxa5n9xb&st=t5yksjf9&dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg" group-title="▶ VOD KIDS",Kung Fu Panda (2008)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Kung%20Fu%20Panda%202008.mp4
+https://www.dropbox.com/scl/fi/ho3prc8jqkj0fuxs6w79x/Kung.Fu.Panda.2008.720p.BluRay.MalayDub.ProAce.mp4?rlkey=efprgpkbqtg6yykchk5qvqlqs&st=efaq7z2h&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 2 (2011)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Kung%20Fu%20Panda%202%202011.mp4
+https://www.dropbox.com/scl/fi/dzndwmz3eb5ltbhib458i/Kung.Fu.Panda.2.2011.720p.BluRay.MalayDub.ProAce.mp4?rlkey=cxdz0frjrsj2aadfpbv4jdpyk&st=f8sll2qm&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 3 (2016)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Kung%20Fu%20Panda%203%202016.mp4
+https://www.dropbox.com/scl/fi/h00osruz0hfyutmh28fut/Kung.Fu.Panda.3.2016.720p.BluRay.MalayDub.ProAce.mp4?rlkey=r4qq60a31o69hj4n392qx0sei&st=noyypwqs&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 4 (2024)
+https://stream.playcdn.de/playlist/59c3a5c9e8cd0def0f544d267f01f6c6/4/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/dmn20cowy10769basmjmp/Kung.Fu.Panda.4.2024.720p.BluRay.MalayDub.MSM.mp4?rlkey=umvu8rnn6hm2zbonws7ddi5ge&st=72rz5t56&dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog (2020)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Sonic%20The%20Hedgehog%202020-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog 2 (2022)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Sonic%20The%20Hedgehog%202%202022-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog 3 (2024)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Sonic%20the%20Hedgehog%203%202024MalayDub-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tl7huo6BSWpCESeF4lXGHCdv2TG.jpg" group-title="▶ VOD KIDS",Papa Zola The Movie (2025)
+https://47247.ohflix.workers.dev/0:/x41/KoleksiMalay/56/Papa%20Zola%20The%20Movie%202025-1-720.mp4
+https://www.dropbox.com/scl/fi/atrjv8ruasdq0kxp8ob8f/Papa.Zola.The.Movie.2025.mp4?rlkey=accwzzbvlrlsuihq47zwipzp2&st=mw915g24&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="▶ VOD KIDS",KPop Demon Hunters (2025)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/KPop%20Demon%20Hunters%20(2025)MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="▶ VOD KIDS",Swapped (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Swapped%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="▶ VOD KIDS",Swapped (2026) MalayDub
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Swapped%202026MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="▶ VOD KIDS",Hoppers (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Hoppers%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/inTKQni4YW8syrfgnXHwzmNeSo4.jpg" group-title="▶ VOD KIDS",Turbo (2013)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/Turbo%202013-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g3Hms6AE174doeGR1gz5zX5sVsv.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets (2016)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%201%202016-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/g3Hms6AE174doeGR1gz5zX5sVsv.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets (2016) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%201%202016MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/s9xg4V5EDKiphgIksVJ9gewBM11.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets 2 (2019)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%202%202019-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/s9xg4V5EDKiphgIksVJ9gewBM11.jpg" group-title="▶ VOD KIDS",The Secret Life of Pets 2 (2019) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/78/The%20Secret%20Life%20of%20Pets%202%202019MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="▶ VOD KIDS",GOAT (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Goat%20(2026)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg" group-title="▶ VOD KIDS",Rumble (2021)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Rumble%202021-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cjDAlNKylyqNUpv6nDoFR1YBEAD.jpg" group-title="▶ VOD KIDS",Ejen Ali The Movie 2 (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Ejen%20Ali%20The%20Movie%202%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cYdGwCMR1DD3Vg61zrR3NsyrJal.jpg" group-title="▶ VOD KIDS",Ejen Ali The Movie (2019)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Ejen%20Ali%20The%20Movie%201%202019-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5wFIkx7aLhTHxwztj8AXgF17rHj.jpg" group-title="▶ VOD KIDS",BoBoiBoy Elemental Heroes (2019)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/45/BoBoiBoy%20Movie%202%202019.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jVwoMOZQjhO7V223NOT8RRazXMp.jpg" group-title="▶ VOD KIDS",BoBoiBoy Movie (2016)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/45/BoBoiBoy%20The%20Movie%202016.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sPI3IvamJRvxiplR1n6ZdSzUDGw.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Keris Siamang Tunggal (2019)
+https://47247.ohflix.workers.dev/0:/x40/KoleksiMalay/55/Upin%20&%20Ipin%20Keris%20Siamang%20Tunggal%202019-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lE4BIuZ8xY3BiwGJSXEELZW6ky8.jpg" group-title="▶ VOD KIDS",Upin Dan Ipin Jeng Jeng Jeng! (2016)
+https://47247.ohflix.workers.dev/0:/x40/KoleksiMalay/55/Upin%20&%20Ipin%20Jeng%20Jeng%20Jeng%20(2016)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zFVvJwfquD3GBluodLe36QMvr3y.jpg" group-title="▶ VOD KIDS",Geng Pengembaraan bermula (2009)
+https://47247.ohflix.workers.dev/0:/x40/KoleksiMalay/55/Upin%20&%20Ipin%20Geng%20Pengembaraan%20Bermula%202009-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg" group-title="▶ VOD KIDS",Despicable Me 4 (2024)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Despicable%20Me%204%202024-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg" group-title="▶ VOD KIDS",Despicable Me 3 (2017)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/6/Despicable%20Me%203%20(2017)%20Malay%20Dubbed%20.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg" group-title="▶ VOD KIDS",Despicable Me 2 (2013)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/6/Despicable%20Me%202%20(2013)%20Malay%20Dubbed%20.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg" group-title="▶ VOD KIDS",Despicable Me (2010)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/6/Despicable%20Me%20(2010)%20malay%20Dubbed%20.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="▶ VOD KIDS",Minions & Monsters (2026) MalayDub
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/H_VgNY9hteLdWuMWXYOhFg/puc/r8c1nwnj/lznrmi/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="▶ VOD KIDS",Minions & Monsters (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Minions%20and%20Monsters%202026-1-720.mp4
+https://www.dropbox.com/scl/fi/30bf48zx9hs8wywhs48kz/Minions.and.Monsters.2026.mp4?rlkey=lrh2qhcgeoy4vvfenyrhbho60&st=kw3mxcfp&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="▶ VOD KIDS",Minions The Rise of Gru (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Minions%20-%20The%20Rise%20of%20Gru%202022.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dr02BdCNAUPVU07aOodwPYv6HCf.jpg" group-title="▶ VOD KIDS",Minions (2015)
+https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Minions%20(2015)%20720p%20Malay%20Hardsub.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tRyjJkzL9TxUm1URolxlhcTmLhw.jpg" group-title="▶ VOD KIDS",Didi & Friends the Movie (2023)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/45/Didi%20and%20Friends%20The%20Movie%202023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gXv1sy3Jw5lJXog06MC7f57ERu5.jpg" group-title="▶ VOD KIDS",Mechamato Movie (2022)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/43/Mechamato%20Movie%202023-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg" group-title="▶ VOD KIDS",Lightyear (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru29/Lightyear%202022ok2.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg" group-title="▶ VOD KIDS",Tarzan (1999)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/11/Tarzan%20(1999)%20BluRay%20Dub%20Malay.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg" group-title="▶ VOD KIDS",The Good Dinosaur (2015)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/11/The%20Good%20Dinosaur%20(2015)%20Malay%20Dubbed.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/jJaRhOk9FaPTIqP8L4NqnOYEXHo.jpg" group-title="▶ VOD KIDS",The Stolen Princess (2018)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/The%20Stolen%20Princess%20Malay%20hardsub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg" group-title="▶ VOD KIDS",Rio (2011)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/42/Rio%20(2011).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg" group-title="▶ VOD KIDS",Rio 2 (2014)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/42/Rio%202%20(2014).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg" group-title="▶ VOD KIDS",Epic (2013)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Epic%20(2013)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg" group-title="▶ VOD KIDS",Brave (2012)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Brave%20(2012)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg" group-title="▶ VOD KIDS",Mavka The Forest Song (2023)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Mavka%20the%20Forest%20Song%202023-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nYfa9yK6LlbE9K4U7Ved815RgMM.jpg" group-title="▶ VOD KIDS",TEKKEN: Blood Vengeance (2011)
+https://stream.playcdn.de/playlist/1d42f5110d55a284023a93ebfc6134bc/3/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="▶ VOD KIDS",Ice Age Adventures of Buck Wild (2022)
+https://stream.playcdn.de/playlist/e24f210c848e7ca895cb77ddeeaa3830/13/480.m3u8
+https://www.dropbox.com/scl/fi/z7z9h4qr79fj0x95qo4i9/The-Ice-Age-Adventures-of-Buck-Wild.mp4?rlkey=3hiv9u9u0s8t69m562qq37mlx&st=1d8sx39n&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/okF78W1AcXAenlYFE3vna9Uuqjp.jpg" group-title="▶ VOD KIDS",Ice Age Collision Course (2016)
+https://stream.playcdn.de/playlist/eec1d25a5a0bd44fc41441ee02e2b249/2/480.m3u8
+https://www.dropbox.com/scl/fi/idm3phn9w6lhov7qtbdfg/Ice-age-collision-course-2016.mp4?rlkey=cyha30bx1arwdcgstvsdww2ce&st=b6d83ejt&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg" group-title="▶ VOD KIDS",Ice Age Continental Drift (2012)
+https://stream.playcdn.de/playlist/eea80a931d95d314931bbf2b81c7e6d4/1/480.m3u8
+https://www.dropbox.com/scl/fi/b497s03hmzihtwd27ym4q/Ice-age-continental-drift-2012.mp4?rlkey=sr90ufh14fmlfod9vcac4wuqz&st=r6eqa9re&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg" group-title="▶ VOD KIDS",Ice Age Dawn of the Dinosaurs (2009)
+https://stream.playcdn.de/playlist/abe4da0c563c1b505f49c3441a255810/3/480.m3u8
+https://www.dropbox.com/scl/fi/obxdo3t9tf9udwb8kr6nf/Ice-Age-Dawn-of-the-Dinosaurs-2009.mp4?rlkey=cd57alyxmhdp1v3m9tef3co6f&st=lej13zc0&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8vNkkk4erLGDg3UfbmSHsTdSNcY.jpg" group-title="▶ VOD KIDS",Ice Age The Meltdown (2006)
+https://stream.playcdn.de/playlist/de1ceef515d0b20f390b6d49366d51bc/1/480.m3u8
+https://www.dropbox.com/scl/fi/qggjjhobnmx70w6dhmw9p/Ice.Age.The.Meltdown.2006.mp4?rlkey=svdclhcj4jzehzfjayibqfogf&st=zh6kt6w5&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg" group-title="▶ VOD KIDS",Ice Age (2002)
+https://stream.playcdn.de/playlist/ea61e28633a918f785bdd94d0a56c460/3/480.m3u8
+https://www.dropbox.com/scl/fi/bd93ap2iw8gy43u4t407b/Ice.Age.2002.mp4?rlkey=8b3kqbec2741ec15ges1vggvh&st=kd6k22l9&dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg" group-title="▶ VOD KIDS",The Lion King (2019)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/The%20Lion%20King%20(2019)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg" group-title="▶ VOD KIDS",Mufasa The Lion King (2024)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru46/Mufasa-%20The%20Lion%20King%202024-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg" group-title="▶ VOD KIDS",Transformers One (2024)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Transformers%20One%202024MalayDub-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/m1X8iZWhe5zhcOQQAHGkcN9IsTS.jpg" group-title="▶ VOD KIDS",Dongeng Sang Kancil (2024)
+https://stream.playcdn.de/playlist/804694d0390b2721a81d136498d2e42f/4/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/qa0ky92hkpr1mvecj36v4/Dongeng.Sang.Kancil.2024.mp4?rlkey=4fn8fd8ghv8rsrb42v6k8sx47&st=fokraib5&dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg" group-title="▶ VOD KIDS",Dragon Ball Super Super Hero (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru32/Dragon%20Ball%20Super%20Super%20Hero%202022.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5vx8zZ7fDsA8KMO6fiVs3pZmNWQ.jpg" group-title="▶ VOD KIDS",Dragon Ball Super Broly (2018)
+https://stream.playcdn.de/playlist/ba1c5059048498b9754b925ca5241081/5/480.m3u8
+https://www.dropbox.com/scl/fi/or3q7qzroiz0cd0j5ht5v/Dragon-Ball-Super-Broly-2018-720p-WEB-HD-Malay-Hardsub.mp4?rlkey=v6kjdj0n9vy2kq88legtm5nuq&st=wo2gc385&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg" group-title="▶ VOD KIDS",Dragon Ball Z Resurrection 'F' (2015)
+https://stream.playcdn.de/playlist/37e7f6c61abb52687cdcbea2eabe48b2/4/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/q3isi9sqmckhafzworeeh/Dragon_Ball_Z_Resurrection_-F-_2015_720p_Bluray_Subs_Malay_-cer.m4v?rlkey=rn2f10cghtp7hbkizuxb3qbgl&st=46ofk7mw&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg" group-title="▶ VOD KIDS",Dragon Ball Z Battle of Gods (2013)
+https://stream.playcdn.de/playlist/ae25acd9ca71daf3937b1f52af9b42c3/4/480.m3u8?x=1
+https://www.dropbox.com/scl/fi/kye8ybq4tydtlmgwwdzix/Dragon_Ball_Z_Battle_Of_Gods_2013_720p_Bluray_Subs_Malay_-ceritasarikatamelayu.mp4?rlkey=ooon6l9zz51s8ht4jgmn75oof&st=kp5dqfoy&dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/w2abzxpYu6hi0S1pxm4Zbe2Gsnt.jpg" group-title="▶ VOD KIDS",Hotel Transylvania 4 Transformania (2022)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Hotel%20Transylvania%20Transformania%20(2022)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg" group-title="▶ VOD KIDS",Hotel Transylvania 3 Summer Vacation (2018)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/5/Hotel%20Transylvania%203%20Summer%20Vacation2018720p.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg" group-title="▶ VOD KIDS",Hotel Transylvania 2 (2015)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/5/Hotel%20Transylvania%202%20(2015)%20%20720p%20Bluray%20%20Malay%20Hardsub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg" group-title="▶ VOD KIDS",Hotel Transylvania (2012)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/5/Hotel%20Transylvania%20%20(2012)%20%20720p%20Bluray%20%20Malay%20Hardsub.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/h6Wi81XNXCjTAcdstiCLRykN3Pa.jpg" group-title="▶ VOD KIDS",Frozen II (2019)
+https://47227.ohflix.workers.dev/0:/x21/Random5%20Movies%20Malay%20Sub/Frozen.II.2019.720p.BluRayok.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg" group-title="▶ VOD KIDS",Frozen (2013)
+https://47227.ohflix.workers.dev/0:/x21/Random5%20Movies%20Malay%20Sub/Frozen.2013.BluRay.720pok.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg" group-title="▶ VOD KIDS",The Last Naruto the Movie (2014)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/The%20Last%20Naruto%20the%20Movie%20(2014)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg" group-title="▶ VOD KIDS",WALL·E (2008)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/Wall%20-%20E%20(2008)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="▶ VOD KIDS",Turning Red (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/27/Turning%20Red%202022.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="▶ VOD KIDS",Ratatouille (2007)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Ratatouille%202007-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ym7Kst6a4uodryxqbGOxmewF235.jpg" group-title="▶ VOD KIDS",Tangled (2010)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/Tangled%20(2010)%20Malay%20Dub%20.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg" group-title="▶ VOD KIDS",Cars (2006)
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Cars%20(2006).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg" group-title="▶ VOD KIDS",Cars 2 (2011)
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Cars%202%20(2011).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg" group-title="▶ VOD KIDS",Cars 3 (2017)
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/49/Cars%203%20(2017).mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/vRhnslP2gW0QDym7BsMeSuioUfK.jpg" group-title="▶ VOD KIDS",The Smurfs (2011)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/The%20Smurfs%202011.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/tmjvgbEH4BKYFfHmWXjXrHgi8wT.jpg" group-title="▶ VOD KIDS",The Smurfs 2 (2013)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/The%20Smurfs%202%202013.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/swt9crREg1UcKgg3wGWfoFNlXOz.jpg" group-title="▶ VOD KIDS",Smurfs The Lost Village (2017)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Smurfs%20The%20Lost%20Village(2017).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="▶ VOD KIDS",Smurfs (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Smurfs%202025-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" group-title="▶ VOD KIDS",Finding Dory (2016)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Finding%20Dory%202016-1-720.mp4
+https://www.dropbox.com/scl/fi/v5t8j2qhcbv23aoia1fa8/Finding-Dory.mp4?rlkey=4fzgxwkpm9g9ccpp5gph6pa2f&st=wewb7u8h&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg" group-title="▶ VOD KIDS",Finding Nemo (2003)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Finding%20Nemo%202003-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie Sponge Out of Water (2015)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/40/The%20SpongeBob%20Movie%20Sponge%20Out%20of%20Water%20(2015)-malaydub.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie Sponge on the Run (2020)
+https://stream.playcdn.de/playlist/7394b2477879c0949e8d16a55b343267/11/480.m3u8
+https://www.dropbox.com/scl/fi/8xi7ikbvh5p1juuvvdyoq/The-SpongeBob-Movie-Sponge-on-the-Run.mp4?rlkey=3ofacrekmwf6nycl9i8ggo7nw&st=ppfzfuig&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie Search for SquarePants (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20SpongeBob%20Movie%20Search%20for%20SquarePants%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie Search for SquarePants (2025) MalayDub
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/The%20SpongeBob%20Movie%20Search%20for%20SquarePants%202025MalayDub-1-720.mp4
+
+
+#EXTINF:-1 type="movie" tvg-name="Upin & Ipin: Keris Siamang Tunggal" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCG_p_IVP_PORT_390x585_92A9A_202679_172830.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Keris Siamang Tunggal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=f11366dca7794d10c28265a912710d10:7185932853e48c9642e981c37dc97a65
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c512d12b-25be-55a6-93b6-e5a3f8661318/default_dash.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Upin & Ipin: Jeng Jeng Jeng!" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCF_p_IVP_PORT_390x585_92A99_202679_172610.jpg" group-title="▶ VOD KIDS",Upin & Ipin: Jeng Jeng Jeng!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=ea42bd8a8070ffdbeb01e10cb6cfb710:afbab91ae62866e4959371336be2276d
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/88d07487-bcaa-5d36-b6cb-5d60f9cb11eb/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Geng: Pengembaraan Bermula" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KULCE_p_IVP_PORT_390x585_92A98_202679_172423.jpg" group-title="▶ VOD KIDS",Geng: Pengembaraan Bermula
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=93a9f87399fde4d434bf3f133729eb10:c2856d937b4a6be6260cf0d1dddb207e
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/c8570ed4-5654-575c-8309-c2f88986deca/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Didi & Friends The Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHPBN_p_IVP_PORT_390x585_907A6_2026319_72256.jpg" group-title="▶ VOD KIDS",Didi & Friends The Movie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b890125f2c93bafacac22f6ff4b84510:f5aed0c8d249e17dde7d7864b6869dc9
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/594a478d-7f79-5d26-8ecc-d6dcaa122154/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="BoBoiBoy Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_p_IVP_PORT_390x585_6A6D8_202673_163032.jpg" group-title="▶ VOD KIDS",BoBoiBoy Movie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=b1affddcbfc2b3870388436d270bc110:58d4fe1ed38082be0d52f4b4a73840f0
+https://vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/12441e34-6cd9-5aae-8812-ffa26e39ed94/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Ribbit" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_GWNFE_P_IVP_PORT_390x585_7E668_20241023_134132.jpg" group-title="▶ VOD KIDS",Ribbit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=5e396d3f8c6ffa4dcf4319e41511a010:86d3ff8feaa713d8cb209e1d9da87cb6
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/bb159d3d-af36-52d2-bfca-a4e9bac17ffb/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Wheely" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYDVK_p_IVP_PORT_390x585_7E669_20241023_11392.jpg" group-title="▶ VOD KIDS",Wheely
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="The SpongeBob SquarePants Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVLXI_p_IVP_PORT_390x585_8A39B_20251117_13754.jpg" group-title="▶ VOD KIDS",The SpongeBob SquarePants Movie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=3def3edafdecf3288b25856a2a675f10:a17ad85c089dcc9a20a5b02687eb1434
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/30ae8eac-1806-5c73-9360-0f692d00e532/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="The SpongeBob Movie: Sponge Out Of Water" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVLXH_p_IVP_PORT_390x585_8A39A_20251117_13719.jpg" group-title="▶ VOD KIDS",The SpongeBob Movie: Sponge Out Of Water
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=bb9e43e6e94f3099f371281c34d2a610:4d44b1253a76ff6f2faae92af80257c6
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/956fa51c-74c4-566a-9c34-d19f74e64b28/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Rumble In The Jungle" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXSN_p_IVP_PORT_390x585_73DA5_2025114_153641.jpg" group-title="▶ VOD KIDS",Rumble In The Jungle
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=fa246232c7feae3a66f012fb9fdd0510:a0de670e2e816a7ca5de5d56790a246f
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/15944c56-52ba-5eae-a881-be9087d715bc/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Maya The Bee 2 The Honey Games" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQCG_p_IVP_PORT_390x585_692A2_2024313_183312.jpg" group-title="▶ VOD KIDS",Maya The Bee 2 The Honey Games
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=c42095a9b596bedcda8ca976858df010:5fdc456f679707c0e0dc4854b2650325
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/624883ef-7825-56bc-b061-4a220c9dc1d8/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Maya The Bee 3 The Golden Orb" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQBL_p_IVP_PORT_390x585_692A3_2024313_183312.jpg" group-title="▶ VOD KIDS",Maya The Bee 3 The Golden Orb
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=07a3a5b7ab2f8389fff0b0fb39b8e810:8ba7fa74aba09e17e276c9f9966ef8ec
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/dash-wv/vode/189401b3-75fc-54ca-a8f5-091ec0c449f6/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Norm Of The North: Family Vacation" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQUNQ_p_IVP_PORT_390x585_82602_2025226_1346.jpg" group-title="▶ VOD KIDS",Norm Of The North: Family Vacation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=dcf96475a0dcd5969b8dcbfb7a243e10:8484815a083f716aee156f0ba7c2cae5
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/7a70150d-df41-5fc8-a16b-683839e3a50d/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Norm Of The North: King Sized Adventure" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQULQ_p_IVP_PORT_390x585_825FF_2025226_22234.jpg" group-title="▶ VOD KIDS",Norm Of The North: King Sized Adventure
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=4a57f640c4f935d58334575d3e4cc210:a45c141c2db2cc65607bf35709cec74b
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/ea8fc5f8-cf6a-5a86-b60e-5ab9953dee14/default_dash.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Norm Of The North: Keys To The Kingdom" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQULO_p_IVP_PORT_390x585_825F9_2025226_222244.jpg" group-title="▶ VOD KIDS",Norm Of The North: Keys To The Kingdom
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=19823c96b26050f5a6687a5801362410:280156be4fdc4a1c2618070a17a108ba
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8fa24aa9-2e23-54f4-9b6f-386dded79263/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="The Tiger's Apprentice" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSXDY_p_IVP_PORT_390x585_87F2B_202591_1015.jpg" group-title="▶ VOD KIDS",The Tiger's Apprentice
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=12bbeebab2f2123167a48ee7925aa810:c491e047ab83358d015a0e528e1db87c
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/8d7b52d9-eb44-5aa1-ad7e-04d6c164bd95/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Rumble" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBPCE_p_IVP_PORT_390x585_87F27_2025815_191923.jpg" group-title="▶ VOD KIDS",Rumble
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=d4ef11c6a492618e467449cb0e181110:6d2ed4cd72a372e16d31d8df12f5d217
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/3127dad9-80d0-5e8d-8459-b7c18206c7e1/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-name="Paw Patrol: The Movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZVKI_p_IVP_PORT_390x585_87F26_2025815_19191.jpg" group-title="▶ VOD KIDS",PAW Patrol The Movie (2021)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=5762aa02d1d6ff61051a2e6a43621510:27eedccc48e7a2000578180392324551
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/dbe3832a-aef9-57b6-9552-8e74d3e5ec72/default_ott.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg" group-title="▶ VOD KIDS",PAW Patrol The Dino Movie (2026)
+https://pixeldrain.com/api/file/77xPt9NX?download
+https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/bmvC1AFluWn5CciqFwEQ7g/dqm/dq8zriez/pw5ujc/tt/index-f2-v1-a1.m3u8?v=1766826492
