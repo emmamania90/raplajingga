@@ -37,13 +37,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 
 
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="iQIYI" ch-number=" " tvg-name="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Chinese",300 iQIYI 
@@ -566,31 +559,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 
 ###################### MALAYSIA ######################
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia" group-logo="https://i.ibb.co/qM5r6xY6/E-20250224-074610-0000.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (Server 1)
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/26f16d3a-5713-4dc2-ad1c-4e0880899a13/logo.png" tvg-chno="101" group-title="MYTV Live",TV1
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv1.m3u8
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD(Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ????? ??
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3531192,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
-https://cuwf8jayq1.tenbytecdn.com/live/tv2/abr/tv2_1080p/chunks.m3u8?md5=KaUiYq2IsjUbAC4ErLl7lQ&expires=1789947642
-#EXT-X-STREAM-INF:BANDWIDTH=2084949,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-https://cuwf8jayq1.tenbytecdn.com/live/tv2/abr/tv2_720p/chunks.m3u8?md5=OnFJBHxgQO2I1on9ndNWzg&expires=1789947642
-#EXT-X-STREAM-INF:BANDWIDTH=974219,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2"
-https://cuwf8jayq1.tenbytecdn.com/live/tv2/abr/tv2_480p/chunks.m3u8?md5=CC4kq67crugVnKJf5g9x8w&expires=1789947642
-#EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD"" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 HD ??? 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="tv2" tvg-name="TV2" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/659c6568-8cc8-4083-bbdc-2b7df2431f62/logo.png" tvg-chno="102" group-title="Malaysia",TV2
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv2.m3u8
 
 #EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="101" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -605,116 +579,46 @@ https://kerklangsi.github.io/MY-tv/streams/live_tonton/tv9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://kerklangsi.github.io/MY-tv/streams/live_tonton/drama-sangat.m3u8
 
-#EXTINF:-1 tvg-id="122.unifi" ch-number="122" tvg-name="TVS" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",122 TVS Sarawak
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Astro_Oasis_%282024%29.png" group-title="Malaysia",106 Astro Oasis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name="Al-Hijrah" tvg-logo="https://aqfadtv.xyz/logos/TVAlhijrahWhite.png" group-title="Malaysia",114 TV Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
+#EXTINF:-1 tvg-id="ntv7" tvg-name="NTV7" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="102" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",NTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://kerklangsi.github.io/MY-tv/streams/live_tonton/ntv7.m3u8
 
-#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="tv2" tvg-name="TV2" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/659c6568-8cc8-4083-bbdc-2b7df2431f62/logo.png" tvg-chno="102" group-title="Malaysia",TV2
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv2.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OKEY.my" tvg-name="TV Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA", 146 TV Okey 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="103" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://kerklangsi.github.io/MY-tv/streams/live_tonton/8tv.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV ?????
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+#EXTINF:-1 tvg-id="tv-okey" tvg-name="TV OKEY" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/fc596cbc-6f4f-4ab8-bb60-82fb27e38089/logo.png" tvg-chno="110" group-title="Malaysia",TV OKEY
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv-okey.m3u8
 
+#EXTINF:-1 tvg-id="fifa" tvg-name="FIFA+" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6576795:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="111" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",FIFA+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://kerklangsi.github.io/MY-tv/streams/live_tonton/fifa.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia",149 TV9 ????? ??
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+#EXTINF:-1 tvg-id="sukan-rtm" tvg-name="SUKAN+" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/f99e8ffe-7f22-4639-9d7a-497e21f24ad0/logo.jpeg" tvg-chno="111" group-title="Malaysia",SUKAN+
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/sukan-rtm.m3u8
 
-#EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TV Ikim 
-#https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-id="mpl-malaysia" tvg-name="MPL Malaysia" tvg-logo="https://headend-api.tonton.com.my/v600/imageHelper.php?id=6596743:378:CHANNEL:IMAGE:png&w=500&appID=TONTON" tvg-chno="113" group-title="Malaysia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",MPL Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://kerklangsi.github.io/MY-tv/streams/live_tonton/mpl-malaysia.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="113.unifi" tvg-name="Salam HD" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Malaysia",Salam HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+#EXTINF:-1 tvg-id="tv-alhijrah" tvg-name="TV ALHIJRAH" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/e725be7c-615d-42bd-9399-fef5cf386ecb/logo.png" tvg-chno="114" group-title="Malaysia",TV ALHIJRAH
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tv-alhijrah.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="121.unifi" tvg-name="SIAR" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+#EXTINF:-1 tvg-id="bernama" tvg-name="BERNAMA" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/2fc2f258-9179-414e-ba99-d700499aed50/logo.png" tvg-chno="121" group-title="Malaysia",BERNAMA
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/bernama.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
-#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malaysia",Dunia Sinema
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-id="tvs" tvg-name="TVS" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c62a6f83-ebd8-4106-890d-d8b299b7a3fe/logo.jpeg" tvg-chno="122" group-title="Malaysia",TVS
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/tvs.m3u8
 
-#EXTINF:-1 tvg-id="633.unifi" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="Malaysia",Parlimen Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+#EXTINF:-1 tvg-id="berita-rtm" tvg-name="BERITA RTM" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/6245eaa8-f825-4fef-b1f8-2d44fa8676e9/logo.png" tvg-chno="123" group-title="MYTV Live",BERITA RTM
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/berita-rtm.m3u8
 
-#EXTINF:-1 tvg-id="633.unifi" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="Malaysia",Parlimen Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" tvg-id="xxx",FILEM MANTAP
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sooka_Lawak_Sentral.png" tvg-id="xxx",LAWAK SENTRAL
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png" tvg-id="xxx",DRAMA HOTSPOT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" tvg-id="xxx",TRAVEL & TASTE
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png" tvg-id="xxx",DRAMA HEBAT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
-
-#EXTINF:-1 group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png",Oh My Ceria!
-https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
-
-
+#EXTINF:-1 tvg-id="siara-tv" tvg-name="SIARA TV" tvg-logo="https://7d8zpfv0fh.tenbytecdn.com/web-assets/images/channels/c30bcb6d-8671-4fbf-8b82-9b322c65fadb/logo.jpg" tvg-chno="200" group-title="Malaysis",SIARA TV
+https://kerklangsi.github.io/MY-tv/streams/live_mytv/siara-tv.m3u8
 
 ############## SINGAPORE #################################
 
