@@ -1247,6 +1247,9 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
 
 #EXTINF:-1 tvg-id="auto.hbo.signature.iht" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="HBO Group"Movies",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
