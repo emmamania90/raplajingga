@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/visionplus.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/HBO_MAX.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Astro.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Collection.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Asean.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_English.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Indian.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Kids.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Others.m3u" billed-msg="ANDigitalStore"
+#EXTM3U#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/visionplus.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/HBO_MAX.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Astro.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Collection.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Asean.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_English.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Indian.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Kids.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Others.m3u" billed-msg="ANDigitalStore"
+
 
 ############################################################### RTM Klik ################################################################
 #EXTINF:-1 group-logo="https://rtmklik.rtm.gov.my/appLogo.png"
@@ -841,7 +841,7 @@ https://mvts.live/zes-ria
 https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
+#EXTINF:-1 tvg-id="astro193" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
 
@@ -868,7 +868,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://mvts.live/zes-citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
+#EXTINF:-1 tvg-id="astro301" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.m3u8
 
@@ -880,7 +880,7 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.m3u8
 https://mvts.live/zes-rania
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro401" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
+#EXTINF:-1 tvg-id="astro401" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
 
@@ -892,7 +892,7 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
 https://mvts.live/zes-aura
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
+#EXTINF:-1 tvg-id="astro400" group-title="Base" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.m3u8
 
@@ -1261,47 +1261,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOHD.sg" tvg-name="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
+#EXTINF:-1 tvg-id="HBOHD.sg" tvg-name="HBO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png?w=272" group-title="Movies",HBO
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-name="HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
+#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-name="HBO Signature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-name="HBO Family" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movies",HBO Family
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-name="HBO Hits" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=272" group-title="Movies",HBO Hits
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-name="HBO Signature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-name="HBO Family" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=272" group-title="Movies",HBO Family
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-name="Cinemax" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="Movies",Cinemax
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="CinemaWorld.id" tvg-name="CinemaWorld" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="Movies",CinemaWorld
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1hIFdvcmxk/manifest.mpd
-
+#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-name="Cinemax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png?w=272" group-title="Movies",Cinemax
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1687,17 +1674,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro486" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="Sports",803 Astro Arena Bola
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://mvts.live/zes-arenabola
 https://bozzku.xyz/victus/5402/AstArenaBola1.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenabola1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro487" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://mvts.live/zes-arenabola2
 https://bozzku.xyz/victus/5570/AstArenaBola2.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenabola2
@@ -1766,7 +1757,7 @@ https://bozzku.xyz/victus/4997/AstPremierLeague2.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 3
+#EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775976.m3u8
 
@@ -1816,8 +1807,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://mvts.live/zes-bein1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="708" group-title="Sports" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530",820 beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://mvts.live/zes-bein1
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1&kid=d48b6088-253c-443e-b94d-27cb7828f707
 
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS 1 Feed 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1827,8 +1825,15 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://mvts.live/zes-bein2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-id="709" group-title="Sports" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530",821 beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://mvts.live/zes-bein2
+https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1857,18 +1862,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
-
-#EXTINF:-1 tvg-id="706" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",827 SPOTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spoTV&kid=5b593bd5-30f1-403a-8f3e-b9b2cd9236c8
-
-#EXTINF:-1 tvg-id="707" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",828 SPOTV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
-https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spoTV2&kid=1af079fb-8e1d-43d8-90c1-d804431ad84c
 
 #EXTINF:-1 tvg-id="astro189" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGolf_2025.png" group-title="Sports",831 Astro Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1900,7 +1893,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5140/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
-#EXTINF:-1 tvg-id="701" group-title="Sports" tvg-logo="https://get.perfecttv.net/logo/unifisport.png",Unifi Sports
+#EXTINF:-1 tvg-id="701" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",Unifi Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775975.m3u8
 
