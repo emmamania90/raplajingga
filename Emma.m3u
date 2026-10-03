@@ -1291,7 +1291,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 http://iptv12k.com:35461/m260807923420398/111111/13454
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-EXTINF:-1 tvg-id="405" tvg-name="Cinemax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=530" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=530" group-title="Movies",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
