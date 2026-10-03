@@ -1296,7 +1296,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-name="Cinemax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png?w=272" group-title="Movies",Cinemax
 ###KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 http://iptv12k.com:35461/m260807923420398/111111/13469
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
