@@ -1300,7 +1300,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=530" group-title="Movies",Cinemax
+
+#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=530" group-title="Movies",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
