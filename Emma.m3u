@@ -1108,10 +1108,10 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/refs/heads/main/logo/Astro%20Arena.png" group-title="SPORTS ASTRO", ASTRO ARENA HD
 http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/refs/heads/main/logo/Astro%20Arena.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 HD
 http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO BADMINTON
