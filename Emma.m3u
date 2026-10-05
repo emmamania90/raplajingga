@@ -1102,6 +1102,58 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=CartoonNet&kid=2da2675c-6da3-4253-b376-318ef350cf19
 
+
+
+################################################################# SPORTS ASTRO #################################################################
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA HD
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 HD
+http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO BADMINTON
+http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO BADMINTON 2
+http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ARENA BOLA
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ARENA BOLA 2
+http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO STADIUM
+http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", SPOTV
+http://tv.cloudcdn.me/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", OKEY
+http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", SUKAN RTM
+http://tv.cloudcdn.me/live.ts?channelId=107253&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 1
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 2
+http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", Astro SPORTS PLUS
+http://tv.cloudcdn.me/live.ts?channelId=133122&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", Astro PREMIER LEGUEA 2
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", Astro GRANDSTAND
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO CRICKET
+http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO FOOTBALL
+http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS EXTRA
+http://aflaxtv.xyz:8080/live/F33848/cbd9779b/311281.ts
+
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="SPORTS ASTRO",meWATCH 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="SPORTS ASTRO",meWATCH 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+
 ################################################################# SPORTS BACKUP #################################################################
 
 
