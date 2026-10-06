@@ -1109,7 +1109,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 #EXTINF:-1  tvg-name="Astro Arena" tvg-id="Astro.Arena.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="SPORTS ASTRO BACKUP",Astro Arena
 https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1  tvg-name="Astro Cinemax" tvg-id="Cinemax.ph" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="UDPTV",Astro Cinemax
+#EXTINF:-1  tvg-name="Astro Cinemax" tvg-id="Cinemax.ph" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="MOVIES",Astro Cinemax
 https://ott.udptv.xyz/stream/astro/astrocinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1  tvg-name="Astro Football" tvg-id="Astro.Football.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-football-my.png" group-title="SPORTS ASTRO BACKUP",Astro Football
