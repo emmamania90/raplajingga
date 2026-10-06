@@ -1103,62 +1103,7 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=CartoonNet&kid=2da2675c-6da3-4253-b376-318ef350cf19
 
 
-######################################################### SPORTS ASTRO BACKUP #################################################################
 
-
-#EXTINF:-1  tvg-name="Astro Arena" tvg-id="Astro.Arena.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="SPORTS ASTRO BACKUP",Astro Arena
-https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Astro Cinemax" tvg-id="Cinemax.ph" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="MOVIES",Astro Cinemax
-https://ott.udptv.xyz/stream/astro/astrocinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Astro Football" tvg-id="Astro.Football.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-football-my.png" group-title="SPORTS ASTRO BACKUP",Astro Football
-https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Astro Premier Sports" tvg-id="Astro.Premier.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="SPORTS ASTRO BACKUP",Astro Premier Sports
-https://ott.udptv.xyz/stream/astro/premiersports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Astro Showcase" tvg-id="SHOWCASE.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="MOVIES",Astro Showcase
-https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Astro Sports Plus" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS ASTRO BACKUP",Astro Sports Plus
-https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Astro Sports UHD" tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS ASTRO BACKUP",Astro Sports UHD
-https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="AXN" tvg-id="AXN.HD.my" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="MOVIES",AXN
-https://ott.udptv.xyz/stream/astro/axn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBC.Earth.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/bbc-earth-ca.png" group-title="NEWS & DOCUMENTARY",BBC Earth
-https://ott.udptv.xyz/stream/astro/bbcearth/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="BBC Food" tvg-id="udptvus/bbcfood" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/bbc-food-vod.png?raw=true" group-title="NEWS & DOCUMENTARY",BBC Food
-https://ott.udptv.xyz/stream/udptvus/bbcfood/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="BBC News" tvg-id="BBC.News.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS & DOCUMENTARY",BBC News
-https://ott.udptv.xyz/stream/astro/bbcnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORTS ASTRO BACKUP",Bein Sports 1
-https://ott.udptv.xyz/stream/astro/beinsports1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports 2" tvg-id="beIN.SPORTS.2.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS ASTRO",Bein Sports 2
-https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports 3" tvg-id="beIN.SPORTS.3.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="SPORTS ASTRO BACKUP",Bein Sports 3
-https://ott.udptv.xyz/stream/astro/beinsports3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports 4" tvg-id="beIN.SPORTS.4.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="SPORTS ASTRO BACKUP",Bein Sports 4
-https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports 5" tvg-id="beIN.SPORTS.5.(HD).sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="SPORTS ASTRO BACKUP",Bein Sports 5
-https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports HD" tvg-id="udptvus/beinsports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="SPORTS ASTRO BACKUP",Bein Sports HD
-https://ott.udptv.xyz/stream/udptvus/beinsports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="SPORTS ASTRO BACKUP",Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 ################################################################# SPORTS ASTRO #################################################################
 
@@ -1217,6 +1162,9 @@ http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS EXTRA
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/311281.ts
+
+#EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="SPORTS ASTRO",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="SPORTS ASTRO",meWATCH 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
