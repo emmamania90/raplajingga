@@ -1,4 +1,4 @@
-#EXTM3U
+.#EXTM3U
 #EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml,https://www.open-epg.com/files/malaysia2.xml,https://github.com/AqFad2811/epg/raw/main/unifitv.xml,https://walpak1.github.io/epg/my.xml,https://walpak1.github.io/epg/starhub.xml,https://walpak1.github.io/epg/visionplus.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/HBO_MAX.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Astro.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Collection.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Asean.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_English.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Indian.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Kids.m3u,https://raw.githubusercontent.com/emmamania90/raplajingga/refs/heads/main/VOD_Others.m3u" billed-msg="BELI DI SHOPEE ANDigitalStore"
 
 
@@ -327,6 +327,10 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 ################################################################# INDONESIA #################################################################
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Emmamania.png"
+
+
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -520,6 +524,21 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://www.mqtv.co.id/wp-content/uploads/2024/06/Logo_MQTV_Original-768x194.webp" group-title="INDONESIA",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/mqtv/mqtv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png" group-title="INDONESIA",RodjaTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
+
+#EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="INDONESIA",AL QURAN KAREEM (Makkah live)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 
 
