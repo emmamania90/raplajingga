@@ -1149,30 +1149,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOHD.sg" tvg-name="HBO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO
-http://iptv12k.com:35461/m260807923420398/111111/13458
+##EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://static.cinemax.com/2021-07/hbo-logo-blk.png?w=400" group-title="BACKUP",HBO
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-name="HBO Signature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Signature
-http://iptv12k.com:35461/m260807923420398/111111/13452
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="BACKUP",HBO family
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-name="HBO Hits" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Hits
-http://iptv12k.com:35461/m260807923420398/111111/13456
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="BACKUP",HBO Hits
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-name="HBO Family" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Family
-http://iptv12k.com:35461/m260807923420398/111111/13454
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="BACKUP",HBO Signature
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-name="Cinemax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png?w=272" group-title="MOVIES",Cinemax
-http://iptv12k.com:35461/m260807923420398/111111/13469
+#EXTINF:-1 tvg-id="transvision.co.id" tvg-logo="https://www.transvision.co.id/img/channel/thrill.png" group-title="BACKUP",thrill
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/57.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://static.cinemax.com/2021-07/hbo-logo-blk.png?w=400" group-title="BACKUP",HBO
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
@@ -1203,6 +1196,7 @@ https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL
 
 
 
+
 ################################################################# BACKUP #################################################################
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Emmamania.png"
@@ -1225,20 +1219,7 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.m3u8
 
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://static.cinemax.com/2021-07/hbo-logo-blk.png?w=400" group-title="BACKUP",HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="BACKUP",HBO family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
-
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="BACKUP",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
-
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="BACKUP",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
-
-#EXTINF:-1 tvg-id="transvision.co.id" tvg-logo="https://www.transvision.co.id/img/channel/thrill.png" group-title="BACKUP",thrill
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/57.m3u8
 
 
 ############################################################## NEWS & DOCUMENTARY ########################################################
