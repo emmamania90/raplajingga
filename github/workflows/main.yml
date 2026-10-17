@@ -1,0 +1,6 @@
+- name: Create JSON File
+  uses: step-security/create-json@v1
+  with:
+    name: "config.json"
+    json: '{"status": "success", "environment": "production"}'
+    dir: "src/"
