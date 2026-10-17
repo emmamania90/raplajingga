@@ -1164,7 +1164,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="MOVIES",MNX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="MOVIES",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd 
