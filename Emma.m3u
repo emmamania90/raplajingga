@@ -296,8 +296,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="Drama Sangat" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg?w=272",Drama Sangat
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live-03.tonton.com.my/ds/master.m3u8?exp=1792267131&hmac=0x3268fca3f3d58e04a9055f17c873bbdbf795607b74aaf773ee4b80817a3c445f
-
+https://live-03.tonton.com.my/ds/master.m3u8?exp=1792292552&hmac=0xfec411db718ea65583e8c3a874110f94ee69d93c613ae6f63efca2b3d554897b
 
 
 #EXTINF:-1 tvg-id="Filem Mantap.my" group-title="MALAYSIA" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/d42fcaFilemMantap.png",Filem Mantap
