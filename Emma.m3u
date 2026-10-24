@@ -497,116 +497,64 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Emmamania.png"
 
 
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="THAILAND",DLTV 1
+ttps://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/white-channel-9194.webp" group-title="THAILAND",White Channel 28
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://seeklogo.com/images/M/media-news-logo-D515219F35-seeklogo.com.gif" group-title="THAILAND",Media new TV
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="THAILAND",Mounchon
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i0.wp.com/www.siamnewsnetwork.net/wp-content/uploads/2018/05/siamnews-bw-helv-square.png" group-title="THAILAND",Siam News
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV 1.th" tvg-name="DLTV1" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/136_y_68spLc0JXweQWNUdngSlVFHqMCPmBo74.png",DLTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
-
-
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="THAILAND",DLTV 2
+#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV 2.th" tvg-name="DLTV2" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/137_y_FpCKulfbAo7hPeMwsY54IyirXW2x0LgT.png",DLTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
-
-
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="THAILAND",DLTV 3
+#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="DLTV 3.th" tvg-name="DLTV3" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/138_y_yifb9uo5jI3GZm0YrlqF7kxXU2pWwM4O.png",DLTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
-
-
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="THAILAND",DLTV 4
+#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="DLTV 4.th" tvg-name="DLTV4" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/139_y_G8aztxI7lopC4jKZqYk6gMVXfe3291iT.png",DLTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="THAILAND",DLTV 5
+#EXTINF:-1 tvg-chno="205" ch-number="205" tvg-id="DLTV 5.th" tvg-name="DLTV5" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/140_y_XwfdOoYHB3a7GUsKIgS1qenjyJAhPzcp.png",DLTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="THAILAND",DLTV 6
+#EXTINF:-1 tvg-chno="206" ch-number="206" tvg-id="DLTV 6.th" tvg-name="DLTV6" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/141_y_kda46LBzSvyKUAwnsEV0x5FHNWieXbQJ.png",DLTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="THAILAND",DLTV 7
+#EXTINF:-1 tvg-chno="207" ch-number="207" tvg-id="DLTV 7.th" tvg-name="DLTV7" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/142_y_05Rxumw8LcA2d1gkQY9Zq6pDH4sBOjai.png",DLTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="THAILAND",DLTV 8
+#EXTINF:-1 tvg-chno="208" ch-number="208" tvg-id="DLTV 8.th" tvg-name="DLTV8" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/143_y_Y1djWzJ0RgfSOEo3rV5GDxqLv2AiFMyT.png",DLTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="THAILAND",DLTV 9
+#EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV 9.th" tvg-name="DLTV9" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/144_y_aYDn3AiLxfchUqRtKebTg1S5v4mVCQOz.png",DLTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="THAILAND",DLTV 10
+#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV 10.th" tvg-name="DLTV10" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/145_y_TLNxScqMYmHbCXnzjdKfWkDwgrslVy3O.jpg",DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="THAILAND",DLTV 11
+#EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV 11.th" tvg-name="DLTV11" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/146_y_9XSEgc2ZxOenR6jNKtCiwIsPoh1upUDk.jpg",DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="THAILAND",DLTV 12
+#EXTINF:-1 tvg-chno="212" ch-number="212" tvg-id="DLTV 12.th" tvg-name="DLTV12" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/147_y_cmfb6rDCAwsGvtkqYolUuNj2nXpRSFIK.png",DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="THAILAND ",DLTV 13
+#EXTINF:-1 tvg-chno="213" ch-number="213" tvg-id="DLTV 13.th" tvg-name="DLTV13" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/148_y_uT5ohd0714OIHXKYN8vRBpaZSkGUAFwf.png",DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="THAILAND",DLTV 14
+#EXTINF:-1 tvg-chno="214" ch-number="214" tvg-id="DLTV 14.th" tvg-name="DLTV14" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/149_y_q7fbJ4eWFI2Lstdj1pvrQy9Oi5kaP8Uc.png",DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="THAILAND",DLTV 15
+#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV 15.th" tvg-name="DLTV15" group-title="THAILAND" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/150_y_nipxyfZ1W5LeMXODthBzwYCG063cq9ol.png",DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-
-#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Thairath_TV32.png",Thairath TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
-#EXTVLCOPT:http-origin=https://www.thairath.co.th
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVMuslimThailand.th@SD" tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="THAILAND",TV Muslim Thailand
-https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DopaChannel.th@SD" tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="THAILAND",Dopa Channel
-http://dopachannel.truegse.com/live/dopatv03.m3u8
-
-#EXTINF:-1 tvg-id="GMM25.th@SD" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="THAILAND",GMM 25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-id="One31.th@SD" tvg-logo="https://i.imgur.com/HXFNbuc.png" group-title="THAILAND",One 31
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-id="Channel8.th@SD" tvg-logo="https://i.imgur.com/aPLLzMA.jpeg" group-title="THAILAND",CHANNEL 8 (S1) (Ga 24 Jam)
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TopNews.th@SD" tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="THAILAND",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-
-#EXTINF:-1 tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",MONO 29
-https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-
-#EXTINF:-1 tvg-id="LanthungTV.th@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" group-title="THAILAND",Lanthung TV
-https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PoliceTV.th@SD" tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="THAILAND",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBBTV.th@SD" tvg-logo="https://i.imgur.com/B1tyK1Z.png" group-title="THAILAND",SBB TV
-https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBTTV.th@SD" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="THAILAND",SBT TV
-http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RamaChannel.th@SD" tvg-logo="https://i.imgur.com/pnbzE2V.png" group-title="THAILAND",Rama Channel
-https://ramach.ddns.net/live/ramalive/index.m3u8
-
-#EXTINF:-1 tvg-id="STOUChannel.th@SD" tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="THAILAND",STOU Channel
-https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuwannabhumiChannel.th@SD" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="THAILAND",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-
-#EXTINF:-1 tvg-id="ZabbChannel.th@SD" tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="THAILAND",Zabb Channel
-https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="THAILAND", Lao-Thai TV
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPLLzMA.jpeg" group-title="THAILAND", CHANNEL 8 (S2) [NOT 24/7]
-http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ThaiPBS.th@SD" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="THAILAND",Thai PBS [NOT 24/7]
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
 
 
