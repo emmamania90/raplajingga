@@ -849,7 +849,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
 
-
+#EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha" tvg-logo="https://img.media.jio.com/tvpimages/69/33/304281_1792404598072_l_medium.jpg" group-title="INDIAN,Sony Vizha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fedc939f3c6b52c782d20b0a459d6ac6:5c03dfa28b790cdda468a01a1da7873c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793525403~exp=1793547003~acl=/*~hmac=a49b66df8ab7e74109049e8fcd34a2240c837b5b6e3faaa42270e2115225f9f1
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793525403~exp=1793547003~acl=/*~hmac=a49b66df8ab7e74109049e8fcd34a2240c837b5b6e3faaa42270e2115225f9f1
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793525403~exp=1793547003~acl=/*~hmac=a49b66df8ab7e74109049e8fcd34a2240c837b5b6e3faaa42270e2115225f9f1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="astro357" group-title="INDIAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
