@@ -845,8 +845,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 #EXTINF:-1 tvg-id="astro644" group-title="INDIAN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SONYVizha_2026.png",220 Sony Vizha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5609
-@@ -1123,7 +1117,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
 #EXTINF:-1 tvg-id="astro357" group-title="INDIAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
