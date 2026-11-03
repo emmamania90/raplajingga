@@ -1867,7 +1867,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Emmamania.png"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/refs/heads/main/logo/Astro%20Arena.png" group-title="SPORTS ASTRO", ASTRO ARENA HD
-http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z3aYWTizMhZLl7gf5WajSg","kid":"79pkfa1yNWO2Jb6MBe5hEA"}],"type":"temporary"}
+https://dl.dropboxusercontent.com/scl/fi/o75jqmy66701sz01o9u0s/arena.m3u8?rlkey=9kl4nordyk2cix9di4s7t22zo&dl=0
+http://iptv12k.com:35461/live/m241228343932464/111111/5943.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/refs/heads/main/logo/Astro%20Arena.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 HD
 http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
