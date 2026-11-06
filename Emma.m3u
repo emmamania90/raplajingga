@@ -128,13 +128,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 7 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" group-title="MALAYSIA",TV 7 
-http://tv.cloudcdn.me/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 tvg-id="" tvg-name="TV 8 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" group-title="MALAYSIA",TV 8 
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34619
-#EXTINF:-1 tvg-id="" tvg-name="TV 9 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV9_MY.png" group-title="MALAYSIA",TV 9 
-http://tv.cloudcdn.me/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:07:07:43
-
 #EXTINF:-1 tvg-id="astro622" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro30.png",100 Astro30
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
