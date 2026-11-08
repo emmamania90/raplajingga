@@ -148,6 +148,7 @@ http://iptv12k.com:35461/m260715462111857/111111/735
 http://46.38.157.60:19890/trams/2925/playlist.m3u8?token=passwd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Ria" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-title="MALAYSIA",Astro Ria Feed 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://013tv.com:8080/F33848/cbd9779b/158347
 
 #EXTINF:-1 tvg-id="astro316" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
@@ -165,6 +166,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Prima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="MALAYSIA",Astro Prima Feed 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://013tv.com:8080/F33848/cbd9779b/157467
 
 #EXTINF:-1 tvg-id="astro315" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
@@ -1978,6 +1980,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="SPORTS", Arena Bola
 http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-id="astro486" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="SPORTS",803 Astro Arena Bola Feed 2
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
+https://bozzku.xyz/victus/5402/AstArenaBola1.mpd
 
 #EXTINF:-1 tvg-id="astro487" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="SPORTS",804 Astro Arena Bola 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
