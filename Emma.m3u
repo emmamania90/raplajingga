@@ -1166,52 +1166,39 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/57.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="HBOHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIES",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES",HBO 
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
-http://46.38.157.60:19890/trams/1015/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="MOVIES",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Feed 2
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306484
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES",HBO Family 
 http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-http://46.38.157.60:19890/trams/2711/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="MOVIES",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Family Feed 2
+http://aflaxtv.xyz:8080/F33848/cbd9779b/197055
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES", HBO Hits 
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-http://46.38.157.60:19890/trams/2782/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Hits Feed 2
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306486
+
+#EXTINF:-1
+tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES", HBO Signature
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-http://46.38.157.60:19890/trams/2722/playlist.m3u8?token=passwd
 
-#EXTINF:-1 tvg-id="CinemaxHD.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Signature Feed 2
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306483
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES", Cinemax
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
-http://103.196.177.230:80/mike/mike123/81.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOHD.sg" tvg-name="HBO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO
-https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
+#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", Cinemax Feed 2
+http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOFamilyHD.sg" tvg-name="HBO Family" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Family
-https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOHitsHD.sg" tvg-name="HBO Hits" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Hits
-https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="HBOSignatureHD.sg" tvg-name="HBO Signature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="MOVIES",HBO Signature
-https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
-
-	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="MOVIES", Warner Bros TV
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
