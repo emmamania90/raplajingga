@@ -1166,36 +1166,36 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/57.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES",HBO 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIES",HBO 
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
 
-#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Feed 2
+#EXTINF:-1 tvg-logo ="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="MOVIES", HBO Feed 2
 http://aflaxtv.xyz:8080/F33848/cbd9779b/306484
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES",HBO Family 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="MOVIES",HBO Family 
 http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 
-#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Family Feed 2
+#EXTINF:-1 tvg-logo ="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="MOVIES", HBO Family Feed 2
 http://aflaxtv.xyz:8080/F33848/cbd9779b/197055
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES", HBO Hits 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="MOVIES", HBO Hits 
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 
-#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Hits Feed 2
+#EXTINF:-1 tvg-logo ="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="MOVIES", HBO Hits Feed 2
 http://aflaxtv.xyz:8080/F33848/cbd9779b/306486
 
 #EXTINF:-1
-tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES", HBO Signature
+tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="MOVIES", HBO Signature
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
-#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", HBO Signature Feed 2
+#EXTINF:-1 tvg-logo ="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="MOVIES", HBO Signature Feed 2
 http://aflaxtv.xyz:8080/F33848/cbd9779b/306483
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="MOVIES", Cinemax
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES", Cinemax
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 
-#EXTINF:-1 tvg-logo ="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES", Cinemax Feed 2
+#EXTINF:-1 tvg-logo ="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES", Cinemax Feed 2
 http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
 
