@@ -1857,94 +1857,104 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Emmamania.png"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 1
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="SPORTS ASTRO", BEINSPORTS 1
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052432.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 3
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORTS ASTRO", BEINSPORTS 3
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052426.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 3 HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORTS ASTRO", BEINSPORTS 3 HD
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052430.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS ASTRO", ASTRO ARENA
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052376.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO PLUS 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="SPORTS ASTRO", ASTRO SPORT PLUS 
 http://pixtv.org/live/Test22/JmSSHFpNSX/955665.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO SPORT PLUS
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="SPORTS ASTRO", ASTRO SPORT PLUS Feed 2
 http://pixtv.org/live/Test22/JmSSHFpNSX/1170925.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO STADIUM
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="SPORTS ASTRO", ASTRO SPORTS PLUS Feed 3
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410919.ts
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroStadium.png" group-title="SPORTS ASTRO", ASTRO STADIUM
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052374.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO FOOTBALL
-http://pixtv.org/live/Test22/JmSSHFpNSX/1170917.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO SPOTV 
-http://pixtv.org/live/Test22/JmSSHFpNSX/1052592.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO SPOTV 2 
-http://pixtv.org/live/Test22/JmSSHFpNSX/957732.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO PREMIER LEGUEA 2 
-http://pixtv.org/live/Test22/JmSSHFpNSX/955663.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA HD
-http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 HD
-http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO BADMINTON
-http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO BADMINTON 2
-http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ARENA BOLA
-http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ARENA BOLA 2
-http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO STADIUM
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroStadium.png" group-title="SPORTS ASTRO", ASTRO STADIUM Feed 2
 http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", SPOTV
-http://tv.cloudcdn.me/live.ts?channelId=133045&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", OKEY
-http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", SUKAN RTM
-http://tv.cloudcdn.me/live.ts?channelId=107253&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 1
-http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS 2
-http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", Astro SPORTS PLUS
-http://tv.cloudcdn.me/live.ts?channelId=133122&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", Astro PREMIER LEGUEA 2
-http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", Astro GRANDSTAND
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="SPORTS ASTRO", ASTRO FOOTBALL
+http://pixtv.org/live/Test22/JmSSHFpNSX/1170917.ts
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="SPORTS ASTRO", ASTRO FOOTBALL Feed 2
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410917.ts
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="SPORTS ASTRO", ASTRO FOOTBALL Feed 3
+http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="SPORTS ASTRO", ASTRO SPOTV 
+http://pixtv.org/live/Test22/JmSSHFpNSX/1052592.ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="SPORTS ASTRO", ASTRO SPOTV 2 
+http://pixtv.org/live/Test22/JmSSHFpNSX/957732.ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS ASTRO", ASTRO ARENA
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS ASTRO", ASTRO ARENA Feed 2
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410915.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 
+http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png" group-title="SPORTS ASTRO", ASTRO ARENA 2 Feed 2
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410916.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS ASTRO", ASTRO PREMIER LEAGUE 1 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470698.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS ASTRO", ASTRO PREMIER LEAGUE 2 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470699.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS ASTRO", ASTRO PREMIER LEAGUE 3 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470700.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS ASTRO", ASTRO PREMIER LEAGUE 4 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470701.ts
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="SPORTS ASTRO", ASTRO BADMINTON
+http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="SPORTS ASTRO", ASTRO BADMINTON 2
+http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="SPORTS ASTRO", SPOTV
+http://tv.cloudcdn.me/live.ts?channelId=133045&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", SUKAN RTM
+http://tv.cloudcdn.me/live.ts?channelId=107253&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="SPORTS ASTRO", BEINSPORTS 1
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="SPORTS ASTRO", BEINSPORTS 2
+http://tv.cloudcdn.me/live.ts?channelId=133114&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO CRICKET
 http://tv.cloudcdn.me/live.ts?channelId=128494&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", ASTRO FOOTBALL
-http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS ASTRO", BEINSPORTS EXTRA
-http://aflaxtv.xyz:8080/live/F33848/cbd9779b/311281.ts
 
-#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="SPORTS ASTRO",meWATCH 1
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="" group-title="SPORTS ASTRO",meWATCH 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
