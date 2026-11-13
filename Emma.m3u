@@ -1869,6 +1869,13 @@ http://pixtv.org/live/Test22/JmSSHFpNSX/1052430.ts
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS ASTRO", ASTRO ARENA
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052376.ts
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="SPORTS ASTRO", ARENA BOLA
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="SPORTS ASTRO", ARENA BOLA 2
+http://tv.cloudcdn.me/live.ts?channelId=133063&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="SPORTS ASTRO", ASTRO SPORT PLUS 
 http://pixtv.org/live/Test22/JmSSHFpNSX/955665.ts
 
@@ -1920,7 +1927,7 @@ http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410916.ts
 http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470698.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS ASTRO", ASTRO PREMIER LEAGUE 2 HD
-http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470699.ts
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS ASTRO", ASTRO PREMIER LEAGUE 3 HD
 http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470700.ts
