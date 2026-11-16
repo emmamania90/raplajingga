@@ -1,9 +1,9 @@
 #EXTM3U url=""
 
 
-###################################################################▶ VOD KIDS#######################################################
+##################################################################### ▶ VOD KIDS ##########################################################
 
-################################################################## KIDS SERIES ######################################################
+################################################################## ▶ VOD KIDS SERIES ######################################################
 
 #EXTINF:-1 type="series" tvg-name="Upin & Ipin S3 Ep01" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWPGB_series_IVP_LAND_586x330_2C55E_2026317_91813.jpg" group-title="▶ VOD KIDS", Upin & Ipin S3 E01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -727,7 +727,7 @@ https://www.dropbox.com/scl/fi/8i9q08o5vawzkd5glr5io/Kamen_Rider_Gotchard_The_Mo
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/5y41tKwuRInEjpFWVIC1oKQqSOm.jpg" group-title="▶ VOD KIDS",Kamen Rider Gavv Invaders of the Candy House (2025)
 https://www.dropbox.com/scl/fi/z1mpbdlqq0b2ygbsnbev9/Kamen_Rider_GavvThe_Candy_House_Invaders2025.mp4?rlkey=xrz4p9qjd2okdnkrryrjdi6pn&st=dbs8kc2i&dl=1
 
-
+===========================================================================================================================================
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/wHZQMxAyFUfCU8kHF50GcO2NHVB.jpg" group-title="▶ VOD KIDS",Ultraman Mebius & Ultra Brothers (2006)
 https://www.dropbox.com/scl/fi/5xvyn8wkg0xpodi585su6/Ultraman-Mebius-dan-Ultra-Brothers.mp4?rlkey=3rux572u8xjrruw21dbngnpao&st=41dfoo4p&dl=1
 
@@ -772,8 +772,6 @@ https://www.dropbox.com/scl/fi/icx4nvcoiz17lwthdmpeg/Ultraman_Decker_Finale_Jour
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kTOzTqTL4wemAe4tZSAMnYaDCQQ.jpg" group-title="▶ VOD KIDS",Ultraman Blazar The Movie Tokyo Kaiju Showdown (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Ultraman%20Blazar%20The%20Movie%20Tokyo%20Kaiju%20Showdown%202024-1-720.mp4
-
-
 
 ===============================================================================================================================================
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg" group-title="▶ VOD KIDS",Stand by Me Doraemon 2 (2020)
@@ -864,7 +862,6 @@ https://www.dropbox.com/scl/fi/9n40qaiyvrp07o6a1kf8m/Doraemon.Movie.2001.720p.HD
 https://www.dropbox.com/scl/fi/ofvo8zr9fg3eg3yjlc60k/Doraemon-Nobita-and-the-Legend-of-the-Sun-King-2000.mp4?rlkey=gdj1xs24i50d0meqt8ieb75cc&st=aispfwwl&dl=1
 
 =========================================================================================================================================================
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg" group-title="▶ VOD KIDS",Howl’s Moving Castle (2004)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/72/Howls%20Moving%20Castle%20(2004)ok-1-720.mp4
 
@@ -882,6 +879,9 @@ https://www.dropbox.com/scl/fi/0yj56rme54yhh0knbkvfi/Kingsglaive-Final-Fantasy-X
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg" group-title="▶ VOD KIDS",The Cat Returns (2002)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/The%20Cat%20Returns%20(2002)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/A5MP1guV8pbruieG0tnpPIbaJtt.jpg" group-title="▶ VOD KIDS",Rango (2011)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Rango%202011-1-720.mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ipiYeecAshSsZE9RuYwHIVrHisa.jpg" group-title="▶ VOD KIDS",Toy Story 5 (2026)
@@ -925,33 +925,44 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Moana%20201
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon (2010)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20to%20Train%20Your%20Dragon%201%202010-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon.mp4
-https://www.dropbox.com/scl/fi/fyrvwmkmqd3xzah3kmmar/How.to.Train.Your.Dragon.2010.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=8pp3v3y5jfz8xt0yqtaqhrzah&st=lsmayces&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon (2010) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20to%20Train%20Your%20Dragon%201%202010MalayDub-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 2 (2014)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20to%20Train%20Your%20Dragon%202%202014-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon%20(2).mp4
-https://www.dropbox.com/scl/fi/ngno8tm4e8y6g2q6iiqg9/How.to.Train.Your.Dragon.2.2014.720p.BR.MalayDub.MSM.mp4.mp4?rlkey=ore2ztit03djt4b1z23zw1osb&st=donq217o&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 3 The Hidden World (2019)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20To%20Train%20Your%20Dragon%20The%20Hidden%20World%202019-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/How%20To%20Train%20Your%20Dragon%20(3).mp4
-https://www.dropbox.com/scl/fi/pkzygwc0op207e6tw6afj/How_to_Train_Your_Dragon_The_Hidden_World_2019_720p_BR_MalayDub.mp4?rlkey=cn3tro49hj28rifecnxa5n9xb&st=t5yksjf9&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="▶ VOD KIDS",How to Train Your Dragon 3 The Hidden World (2019) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/How%20To%20Train%20Your%20Dragon%20The%20Hidden%20World%202019MalayDub-1-720.mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg" group-title="▶ VOD KIDS",Kung Fu Panda (2008)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kung%20Fu%20Panda%201%202008-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Kung%20Fu%20Panda%202008.mp4
-https://www.dropbox.com/scl/fi/ho3prc8jqkj0fuxs6w79x/Kung.Fu.Panda.2008.720p.BluRay.MalayDub.ProAce.mp4?rlkey=efprgpkbqtg6yykchk5qvqlqs&st=efaq7z2h&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 2 (2011)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kung%20Fu%20Panda%202%202011-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Kung%20Fu%20Panda%202%202011.mp4
-https://www.dropbox.com/scl/fi/dzndwmz3eb5ltbhib458i/Kung.Fu.Panda.2.2011.720p.BluRay.MalayDub.ProAce.mp4?rlkey=cxdz0frjrsj2aadfpbv4jdpyk&st=f8sll2qm&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 2 (2011) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kung%20Fu%20Panda%202%202011MalayDub-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 3 (2016)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kung%20Fu%20Panda%203%202016-1-720.mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Kung%20Fu%20Panda%203%202016.mp4
-https://www.dropbox.com/scl/fi/h00osruz0hfyutmh28fut/Kung.Fu.Panda.3.2016.720p.BluRay.MalayDub.ProAce.mp4?rlkey=r4qq60a31o69hj4n392qx0sei&st=noyypwqs&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 4 (2024)
-https://stream.playcdn.de/playlist/59c3a5c9e8cd0def0f544d267f01f6c6/4/480.m3u8?x=1
-https://www.dropbox.com/scl/fi/dmn20cowy10769basmjmp/Kung.Fu.Panda.4.2024.720p.BluRay.MalayDub.MSM.mp4?rlkey=umvu8rnn6hm2zbonws7ddi5ge&st=72rz5t56&dl=1
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kung%20Fu%20Panda%204%202024-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="▶ VOD KIDS",Kung Fu Panda 4 (2024) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Kung%20Fu%20Panda%204%202024MalayDub-1-720.mp4
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="▶ VOD KIDS",Sonic the Hedgehog (2020)
@@ -1002,6 +1013,19 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Goat%20(2026)-1-720.m
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Rumble%202021-1-720.mp4
 
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg" group-title="▶ VOD KIDS",Shrek (2001)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Shrek%201%20(2001)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg" group-title="▶ VOD KIDS",Shrek 2 (2004)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Shrek%202%20(2004)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/n4SexGGQzI26E269tfpa80MZaGV.jpg" group-title="▶ VOD KIDS",Shrek the Third (2007)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Shrek%20The%20Third%202007-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg" group-title="▶ VOD KIDS",Shrek Forever After (2010)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Shrek%20Forever%20After%202010-1-720.mp4
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cjDAlNKylyqNUpv6nDoFR1YBEAD.jpg" group-title="▶ VOD KIDS",Ejen Ali The Movie 2 (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Ejen%20Ali%20The%20Movie%202%202025-1-720.mp4
 
@@ -1038,18 +1062,29 @@ https://47227.ohflix.workers.dev/0:/x21/NewVersion/6/Despicable%20Me%202%20(2013
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg" group-title="▶ VOD KIDS",Despicable Me (2010)
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/6/Despicable%20Me%20(2010)%20malay%20Dubbed%20.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="▶ VOD KIDS",Minions & Monsters (2026) MalayDub
-https://playerx.player4me.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/H_VgNY9hteLdWuMWXYOhFg/puc/r8c1nwnj/lznrmi/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" group-title="▶ VOD KIDS",Minions & Monsters (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Minions%20and%20Monsters%202026-1-720.mp4
-https://www.dropbox.com/scl/fi/30bf48zx9hs8wywhs48kz/Minions.and.Monsters.2026.mp4?rlkey=lrh2qhcgeoy4vvfenyrhbho60&st=kw3mxcfp&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="▶ VOD KIDS",Minions The Rise of Gru (2022)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru30/Minions%20-%20The%20Rise%20of%20Gru%202022.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dr02BdCNAUPVU07aOodwPYv6HCf.jpg" group-title="▶ VOD KIDS",Minions (2015) MalayDub
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Minions%202015MalayDub-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dr02BdCNAUPVU07aOodwPYv6HCf.jpg" group-title="▶ VOD KIDS",Minions (2015)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Minions%202015-1-720.mp4
 https://47226.ohflix.workers.dev/0:/x11/Random2%20Movies%20Malay%20Sub/Minions%20(2015)%20720p%20Malay%20Hardsub.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg" group-title="▶ VOD KIDS",Madagascar (2005)
+https://stream.playcdn.de/playlist/5cce5ef7a00e0ba74587db2f14573e0d/3/480.m3u8?x=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/agRbLOHgN46TQO4YdKR462iR7To.jpg" group-title="▶ VOD KIDS",Madagascar Escape 2 Africa (2008)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/79/Madagascar%20Escape%202%20Africa%20(2008)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/ekraj4ksvIKeuvQVEevEJkuybZd.jpg" group-title="▶ VOD KIDS",Madagascar 3 Europes Most Wanted (2012)
+https://stream.playcdn.de/playlist/272b4781bf0ae0ba2901422c2f1bc4a5/3/480.m3u8?x=1
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tRyjJkzL9TxUm1URolxlhcTmLhw.jpg" group-title="▶ VOD KIDS",Didi & Friends the Movie (2023)
@@ -1087,6 +1122,7 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Mavka%2
 
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nYfa9yK6LlbE9K4U7Ved815RgMM.jpg" group-title="▶ VOD KIDS",TEKKEN: Blood Vengeance (2011)
 https://stream.playcdn.de/playlist/1d42f5110d55a284023a93ebfc6134bc/3/480.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="▶ VOD KIDS",Ice Age Adventures of Buck Wild (2022)
 https://stream.playcdn.de/playlist/e24f210c848e7ca895cb77ddeeaa3830/13/480.m3u8
