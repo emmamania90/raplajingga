@@ -134,13 +134,12 @@ http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
-
-#EXTINF:-1 tvg-id="astro193" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria (Not 24H)
+#EXTINF:-1 tvg-id="astro193" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://abeott.short.gy/WGH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://abeott.short.gy/WGH3
 https://mvts.live/zes-ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
@@ -153,15 +152,6 @@ https://abeott.short.gy/WGHf
 https://mvts.live/zes-ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro193" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:99:EC:D3
-#http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-id="astro193" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:99:EC:D3
-
 
 #EXTINF:-1 tvg-id="astro316" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -172,43 +162,31 @@ https://abeott.short.gy/hQ64
 https://mvts.live/zes-prima
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+#EXTINF:-1 tvg-id="astro316" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://abeott.short.gy/JFJ9
+https://mvts.live/zes-prima
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
 #EXTINF:-1 tvg-id="astro316" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3
-
-
-#EXTINF:-1 tvg-id="astro316" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
-#EXTINF:-1 tvg-id="astro316" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
-
-
-#EXTINF:-1 tvg-id="astro301" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra (Not 24H)
+#EXTINF:-1 tvg-id="astro301" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://abeott.short.gy/coy3
+https://abeott.short.gy/SHQ2
 https://mvts.live/zes-citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-
 
 #EXTINF:-1 tvg-id="astro301" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://abeott.short.gy/sHq3
-https://mvts.live/zes-citra
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id="astro301" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="astro401" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania
@@ -2148,12 +2126,13 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
+
 #EXTINF:-1 tvg-id="astro536" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://bozzku.xyz/victus/4996/AstPremierLeague1.mpd
-https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://abeott.short.gy/TOG3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro536" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 2
